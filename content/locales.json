@@ -1,0 +1,24 @@
+{
+  "baseUrl": "https://canigetyournumber.app",
+  "email": "support@canigetyournumber.app",
+  "cssVersion": "20260901",
+  "legalLocales": ["en", "es"],
+  "locales": [
+    { "code": "en",  "dir": "",    "name": "English" },
+    { "code": "es",  "dir": "es",  "name": "Español" },
+    { "code": "pt",  "dir": "pt",  "name": "Português" },
+    { "code": "fr",  "dir": "fr",  "name": "Français" },
+    { "code": "it",  "dir": "it",  "name": "Italiano" },
+    { "code": "de",  "dir": "de",  "name": "Deutsch" },
+    { "code": "nl",  "dir": "nl",  "name": "Nederlands" },
+    { "code": "id",  "dir": "id",  "name": "Bahasa Indonesia" },
+    { "code": "tr",  "dir": "tr",  "name": "Türkçe" },
+    { "code": "pl",  "dir": "pl",  "name": "Polski" },
+    { "code": "sv",  "dir": "sv",  "name": "Svenska" },
+    { "code": "no",  "dir": "no",  "name": "Norsk" },
+    { "code": "da",  "dir": "da",  "name": "Dansk" },
+    { "code": "ro",  "dir": "ro",  "name": "Română" },
+    { "code": "vi",  "dir": "vi",  "name": "Tiếng Việt" },
+    { "code": "fil", "dir": "fil", "name": "Filipino" }
+  ]
+}

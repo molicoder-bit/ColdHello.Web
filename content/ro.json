@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "Sari la conținut",
+    "homeAria": "Pagina principală ColdHello",
+    "mainNavAria": "Navigare principală",
+    "navHowItWorks": "Cum funcționează",
+    "navPrivacy": "Confidențialitate",
+    "navSupport": "Asistență",
+    "languageLabel": "Schimbă limba",
+    "footerTagline": "Fă prima mișcare fără să spui un cuvânt.",
+    "footerNavAria": "Asistență și informații legale",
+    "footerPrivacy": "Confidențialitate",
+    "footerTerms": "Termeni de utilizare",
+    "appleBadgeAlt": "Descarcă din App Store",
+    "googleBadgeAlt": "Disponibil pe Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Fă prima mișcare fără să spui un cuvânt",
+    "description": "ColdHello ajută persoanele timide să facă prima mișcare printr-o întrebare privată, fără presiune. Fără conturi, fără urmărire, iar contactele rămân pe telefonul tău.",
+    "ogDescription": "Fă prima mișcare fără să spui un cuvânt.",
+    "heroEyebrow": "ColdHello / Următorul moment este al tău",
+    "heroHeadline1": "Spune mai puțin.",
+    "heroHeadline2": "Cunoaște pe cineva.",
+    "heroPromise": "Creată pentru iPhone și Android.",
+    "heroDetail": "Întinde-i telefonul. Persoana vede o singură întrebare clară și neutră și alege în intimitate. Fără replici de agățat. Fără presiune în public.",
+    "storeRowAria": "Disponibilitate în magazinele de aplicații",
+    "microProofLead": "Privată prin concepție.",
+    "microProofRest": "Fără cont. Fără urmărire. Contactele rămân pe dispozitivul tău.",
+    "heroProductAria": "Previzualizare a întrebării private afișate în ColdHello",
+    "burst1": "E RÂNDUL",
+    "burst2": "TĂU",
+    "screenKicker": "O întrebare scurtă",
+    "screenQuestion1": "Pot obține",
+    "screenQuestion2": "numărul tău?",
+    "demoYes": "Da",
+    "demoNo": "Nu, mulțumesc",
+    "screenNote": "Tu alegi. Fără presiune.",
+    "privacyStamp1": "FĂRĂ NUMELE APLICAȚIEI",
+    "privacyStamp2": "PE ACEST ECRAN",
+    "problemIndex": "01 / DE CE",
+    "problemHeadline": "Partea cea mai grea sunt adesea primele cinci secunde.",
+    "problemBody": "Ai observat pe cineva. Vrei să saluți. Apoi mintea ți se golește și momentul trece.",
+    "problemNoteLead": "ColdHello nu promite un da.",
+    "problemNoteRest": "Îți oferă pur și simplu un mod respectuos de a întreba și celeilalte persoane un mod clar de a răspunde.",
+    "flowIndex": "02 / PARCURSUL",
+    "flowHeadline1": "O mișcare curajoasă.",
+    "flowHeadline2": "Patru pași simpli.",
+    "flowIntro": "Nimic de memorat. Aplicația ghidează momentul, apoi se dă la o parte.",
+    "steps": [
+      { "title": "Prinde momentul", "body": "Alege pe cineva pe care chiar ai vrea să îl cunoști." },
+      { "title": "Întinde-i telefonul", "body": "Vede o întrebare neutră, niciodată numele aplicației sau panoul tău privat." },
+      { "title": "Decide în intimitate", "body": "Poate accepta, refuza sau pleca. Răspunsul rămâne între voi." },
+      { "title": "Verifică mai târziu", "body": "Dacă acceptă, numele și numărul se salvează local în aplicație." }
+    ],
+    "privacyIndex": "03 / RESPECT INCLUS",
+    "privacyHeadline": "O alegere clară pentru ea. Date private pentru tine.",
+    "privacyBody": "Ecranul văzut de cealaltă persoană rămâne neutru. Un refuz încheie interacțiunea elegant și nu îți dezvăluie niciodată ecranul principal privat.",
+    "proofList": [
+      "Fără cont obligatoriu",
+      "Fără reclame sau instrumente de analiză",
+      "Contactele și istoricul rămân pe dispozitivul tău",
+      "16 limbi în toată aplicația"
+    ],
+    "privacyLink": "Citește politica de confidențialitate completă",
+    "statsAria": "Previzualizare a ecranului privat cu statistici",
+    "statsHeader": "Abordări",
+    "statsLabel": "Săptămâna aceasta",
+    "statsCount": "3 din 5",
+    "statsCountLabel": "reușite",
+    "chartDays": ["L", "M", "M", "J", "V", "S", "D"],
+    "localBadge": "Salvat doar pe acest telefon",
+    "ownerLabel": "Vizualizarea ta privată",
+    "featuresIndex": "04 / MAI MULT DECÂT MOMENTUL",
+    "features": [
+      { "title": "Folosește-ți limba", "body": "Comută între 16 limbi în toată experiența aplicației." },
+      { "title": "Ține contactele ordonate", "body": "Numele și numerele se găsesc ușor după interacțiune, fără cont în cloud." },
+      { "title": "Vezi-ți progresul", "body": "Urmărește rezultatele pe șapte zile, rata de succes și istoricul în panoul tău privat." }
+    ],
+    "pricingIndex": "05 / PREȚURI",
+    "pricingHeadline": "Încearcă gratuit partea curajoasă.",
+    "pricingIntro": "O abordare gratuită se consumă când atingi START, indiferent dacă răspunsul este da sau nu.",
+    "freeTier": "Gratuit",
+    "freeTierUnit": "abordări începute",
+    "freeFeatures": ["Parcurs complet", "Salvarea locală a contactelor", "Urmărire privată a progresului"],
+    "proTag": "Continuă",
+    "proTier": "Pro",
+    "proPrice": "Prețul din magazin",
+    "proPlans": "Planuri lunare și anuale",
+    "proFeatures": ["Abordări nelimitate", "Tot ce include varianta gratuită", "Susține actualizările viitoare"],
+    "pricingNote": "Prețurile și disponibilitatea din magazin sunt afișate în aplicație și pot varia în funcție de regiune.",
+    "faqIndex": "06 / RĂSPUNSURI DIRECTE",
+    "faqHeadline": "Înainte să întinzi telefonul.",
+    "faqLink": "Vezi toată asistența",
+    "faqs": [
+      { "q": "Va vedea numele aplicației?", "a": "Nu. Parcursul destinat celeilalte persoane afișează doar o întrebare neutră și opțiunile de răspuns. Panoul tău și identitatea aplicației rămân ascunse." },
+      { "q": "Ce se întâmplă dacă spune nu?", "a": "Vede un mesaj calm și parcursul se încheie. Revenirea înapoi nu îți poate expune ecranul principal privat." },
+      { "q": "Unde se salvează numărul?", "a": "Doar pe dispozitivul tău. ColdHello nu operează servere care să primească contactele, preferințele sau istoricul tău." },
+      { "q": "Când se contorizează o abordare gratuită?", "a": "Se contorizează când atingi START, indiferent dacă cealaltă persoană acceptă sau refuză. Primele cinci abordări începute per instalare sunt gratuite." },
+      { "q": "De unde o pot descărca?", "a": "Butoanele oficiale de descărcare apar aici când fiecare pagină din magazin este publicată." }
+    ],
+    "finalEyebrow": "Următorul moment este al tău",
+    "finalStoreAria": "Disponibilitate în magazine"
+  },
+  "support": {
+    "title": "Asistență - ColdHello",
+    "description": "Răspunsuri despre ColdHello, abordări gratuite, abonamente, confidențialitate, contacte salvate și restaurarea achizițiilor.",
+    "eyebrow": "Ajutor fără ocolișuri",
+    "heading": "Asistență",
+    "intro": "Răspunsuri clare despre folosirea ColdHello, păstrarea datelor tale private și gestionarea Pro.",
+    "navAria": "Subiecte de asistență",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Primii pași",
+        "title": "Primii pași",
+        "items": [
+          { "q": "Cum decurge o abordare?", "a": "Alege persoana pe care vrei să o cunoști, începe abordarea și întinde-i telefonul. Vede o întrebare neutră și poate răspunde în intimitate. Dacă acceptă, își scrie singură numele și numărul." },
+          { "q": "Persoana vede numele aplicației?", "a": "Nu. Ecranul destinat ei nu afișează niciodată identitatea ColdHello, panoul tău sau setările tale. Se vede doar interacțiunea neutră." },
+          { "q": "Ce se întâmplă când cineva refuză?", "a": "Aplicația afișează un mesaj calm și încheie parcursul destinat celeilalte persoane. Navigarea înapoi nu îți dezvăluie ecranul principal privat." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Confidențialitate",
+        "title": "Confidențialitate și contacte",
+        "items": [
+          { "q": "Unde sunt păstrate contactele salvate?", "a": "Numele și numerele sunt stocate doar pe dispozitivul tău. ColdHello nu operează servere care să primească contactele, preferințele sau istoricul abordărilor tale." },
+          { "q": "Dezinstalarea îmi șterge contactele?", "a": "Da. Dezinstalarea elimină definitiv datele locale ale ColdHello. Salvează mai întâi numerele importante în agenda obișnuită a telefonului." },
+          { "q": "Aplicația mă urmărește?", "a": "Nu. ColdHello nu folosește reclame, analize de la terți sau urmărire comportamentală. Abonamentele sunt procesate separat de Apple sau Google prin RevenueCat." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Gratuit și Pro",
+        "title": "Gratuit și Pro",
+        "items": [
+          { "q": "Cum funcționează varianta gratuită?", "a": "Primele cinci abordări începute per instalare sunt gratuite. O abordare se contorizează când atingi START, indiferent dacă răspunsul este da sau nu. După aceea, Pro deblochează abordări nelimitate." },
+          { "q": "Cât costă Pro?", "a": "Prețul lunar și anual exact, moneda, taxele și disponibilitatea sunt afișate de App Store sau Google Play înainte de achiziție și pot varia în funcție de regiune." },
+          { "q": "Achiziția mea nu apare", "a": "Deschide Setări în aplicație și alege Restaurează achizițiile. Asigură-te că dispozitivul folosește același ID Apple sau cont Google cu care s-a făcut achiziția." },
+          { "q": "Cum anulez?", "a": "Gestionează sau anulează abonamentul din setările de abonament ale contului tău Apple ID sau Google Play. Plățile și anulările nu sunt gestionate direct în ColdHello." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Contact",
+        "title": "Ai în continuare nevoie de ajutor?",
+        "body": "Scrie-ne un e-mail cu o descriere scurtă a problemei și platforma dispozitivului pe care îl folosești. Nu include numărul de telefon al altei persoane."
+      }
+    ]
+  }
+}

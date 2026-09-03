@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "Lewati ke konten",
+    "homeAria": "Beranda ColdHello",
+    "mainNavAria": "Navigasi utama",
+    "navHowItWorks": "Cara kerja",
+    "navPrivacy": "Privasi",
+    "navSupport": "Bantuan",
+    "languageLabel": "Ubah bahasa",
+    "footerTagline": "Buat langkah pertama tanpa berkata apa pun.",
+    "footerNavAria": "Bantuan dan legal",
+    "footerPrivacy": "Privasi",
+    "footerTerms": "Ketentuan Penggunaan",
+    "appleBadgeAlt": "Unduh di App Store",
+    "googleBadgeAlt": "Dapatkan di Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Buat langkah pertama tanpa berkata apa pun",
+    "description": "ColdHello membantu orang pemalu membuat langkah pertama lewat pertanyaan pribadi tanpa tekanan. Tanpa akun, tanpa pelacakan, dan kontak Anda tetap di ponsel Anda.",
+    "ogDescription": "Buat langkah pertama tanpa berkata apa pun.",
+    "heroEyebrow": "ColdHello / Momen berikutnya milik Anda",
+    "heroHeadline1": "Bicara lebih sedikit.",
+    "heroHeadline2": "Kenali seseorang.",
+    "heroPromise": "Dibuat untuk iPhone dan Android.",
+    "heroDetail": "Serahkan ponsel Anda. Ia melihat satu pertanyaan yang jelas dan netral lalu memilih secara pribadi. Tanpa rayuan. Tanpa tekanan di depan umum.",
+    "storeRowAria": "Ketersediaan di toko aplikasi",
+    "microProofLead": "Privat sejak awal.",
+    "microProofRest": "Tanpa akun. Tanpa pelacakan. Kontak tetap di perangkat Anda.",
+    "heroProductAria": "Pratinjau pertanyaan pribadi yang ditampilkan di ColdHello",
+    "burst1": "GILIRAN",
+    "burst2": "ANDA",
+    "screenKicker": "Sebuah pertanyaan singkat",
+    "screenQuestion1": "Bisakah saya mendapatkan",
+    "screenQuestion2": "nomor Anda?",
+    "demoYes": "Ya",
+    "demoNo": "Tidak, terima kasih",
+    "screenNote": "Anda yang memilih. Tanpa tekanan.",
+    "privacyStamp1": "TANPA NAMA APLIKASI",
+    "privacyStamp2": "DI LAYAR INI",
+    "problemIndex": "01 / MENGAPA",
+    "problemHeadline": "Bagian tersulit sering kali adalah lima detik pertama.",
+    "problemBody": "Anda memperhatikan seseorang. Anda ingin menyapa. Lalu pikiran Anda kosong dan momen itu berlalu.",
+    "problemNoteLead": "ColdHello tidak menjanjikan jawaban ya.",
+    "problemNoteRest": "Aplikasi ini hanya memberi Anda cara bertanya yang sopan dan memberi dia cara menjawab yang jelas.",
+    "flowIndex": "02 / ALURNYA",
+    "flowHeadline1": "Satu langkah berani.",
+    "flowHeadline2": "Empat langkah sederhana.",
+    "flowIntro": "Tidak ada naskah untuk dihafal. Aplikasi memandu momennya, lalu menyingkir.",
+    "steps": [
+      { "title": "Kenali momennya", "body": "Pilih seseorang yang benar-benar ingin Anda kenal." },
+      { "title": "Serahkan ponsel Anda", "body": "Ia melihat pertanyaan netral, bukan nama aplikasi atau dasbor pribadi Anda." },
+      { "title": "Ia memutuskan sendiri", "body": "Ia bisa menerima, menolak, atau pergi. Jawabannya tetap di antara kalian." },
+      { "title": "Periksa nanti", "body": "Jika ia menerima, nama dan nomornya tersimpan secara lokal di aplikasi." }
+    ],
+    "privacyIndex": "03 / RASA HORMAT BAWAAN",
+    "privacyHeadline": "Pilihan yang jelas untuknya. Data pribadi untuk Anda.",
+    "privacyBody": "Layar yang dilihat orang lain tetap netral. Penolakan menutup interaksi dengan baik dan tidak pernah menampilkan layar utama pribadi Anda.",
+    "proofList": [
+      "Tanpa akun",
+      "Tanpa iklan atau pelacak analitik",
+      "Kontak dan riwayat tetap di perangkat Anda",
+      "16 bahasa di seluruh aplikasi"
+    ],
+    "privacyLink": "Baca kebijakan privasi lengkap",
+    "statsAria": "Pratinjau layar statistik pribadi",
+    "statsHeader": "Pendekatan",
+    "statsLabel": "Minggu ini",
+    "statsCount": "3 dari 5",
+    "statsCountLabel": "berhasil",
+    "chartDays": ["S", "S", "R", "K", "J", "S", "M"],
+    "localBadge": "Hanya disimpan di ponsel ini",
+    "ownerLabel": "Tampilan pribadi Anda",
+    "featuresIndex": "04 / LEBIH DARI SEKADAR MOMEN",
+    "features": [
+      { "title": "Gunakan bahasa Anda", "body": "Beralih di antara 16 bahasa di seluruh pengalaman aplikasi." },
+      { "title": "Kontak tetap rapi", "body": "Nama dan nomor mudah ditemukan setelah interaksi, tanpa akun cloud." },
+      { "title": "Lihat kemajuan Anda", "body": "Pantau hasil tujuh hari, tingkat keberhasilan, dan riwayat di dasbor pribadi Anda." }
+    ],
+    "pricingIndex": "05 / HARGA",
+    "pricingHeadline": "Coba gratis bagian yang butuh keberanian.",
+    "pricingIntro": "Satu pendekatan gratis terpakai saat Anda menekan MULAI, baik jawabannya ya maupun tidak.",
+    "freeTier": "Gratis",
+    "freeTierUnit": "pendekatan dimulai",
+    "freeFeatures": ["Alur lengkap", "Menyimpan kontak secara lokal", "Pelacakan kemajuan pribadi"],
+    "proTag": "Lanjutkan",
+    "proTier": "Pro",
+    "proPrice": "Harga toko",
+    "proPlans": "Paket bulanan dan tahunan",
+    "proFeatures": ["Pendekatan tanpa batas", "Semua yang ada di paket Gratis", "Mendukung pembaruan mendatang"],
+    "pricingNote": "Harga dan ketersediaan toko ditampilkan di aplikasi dan dapat berbeda menurut wilayah.",
+    "faqIndex": "06 / JAWABAN LANGSUNG",
+    "faqHeadline": "Sebelum Anda menyerahkan ponsel.",
+    "faqLink": "Lihat semua bantuan",
+    "faqs": [
+      { "q": "Apakah ia akan melihat nama aplikasinya?", "a": "Tidak. Alur yang dilihat orang lain hanya menampilkan pertanyaan netral dan pilihan jawaban. Dasbor dan identitas aplikasi Anda tetap tersembunyi." },
+      { "q": "Bagaimana jika ia menjawab tidak?", "a": "Ia melihat pesan yang tenang dan alurnya berakhir. Menekan kembali tidak dapat menampilkan layar utama pribadi Anda." },
+      { "q": "Di mana nomornya disimpan?", "a": "Hanya di perangkat Anda. ColdHello tidak menjalankan server yang menerima kontak, preferensi, atau riwayat pendekatan Anda." },
+      { "q": "Kapan pendekatan gratis terhitung?", "a": "Terhitung saat Anda menekan MULAI, baik orang lain menerima maupun menolak. Lima pendekatan pertama yang dimulai per pemasangan bersifat gratis." },
+      { "q": "Di mana saya bisa mengunduhnya?", "a": "Tombol unduh resmi akan muncul di sini setelah setiap halaman toko tayang." }
+    ],
+    "finalEyebrow": "Momen berikutnya milik Anda",
+    "finalStoreAria": "Ketersediaan di toko"
+  },
+  "support": {
+    "title": "Bantuan - ColdHello",
+    "description": "Jawaban tentang ColdHello, pendekatan gratis, langganan, privasi, kontak tersimpan, dan pemulihan pembelian.",
+    "eyebrow": "Bantuan tanpa berbelit",
+    "heading": "Bantuan",
+    "intro": "Jawaban yang jelas tentang penggunaan ColdHello, menjaga data Anda tetap pribadi, dan mengelola Pro.",
+    "navAria": "Topik bantuan",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Memulai",
+        "title": "Memulai",
+        "items": [
+          { "q": "Bagaimana cara kerja sebuah pendekatan?", "a": "Pilih orang yang ingin Anda kenal, mulai pendekatannya, lalu serahkan ponsel Anda. Ia melihat pertanyaan netral dan bisa menjawab secara pribadi. Jika ia menerima, ia sendiri yang mengisi nama dan nomornya." },
+          { "q": "Apakah orang itu melihat nama aplikasinya?", "a": "Tidak. Layar yang ditujukan kepadanya tidak pernah menampilkan merek ColdHello, dasbor, atau pengaturan Anda. Yang tampil hanyalah interaksi netral." },
+          { "q": "Apa yang terjadi jika seseorang menolak?", "a": "Aplikasi menampilkan pesan yang tenang dan menutup alur yang dilihat orang lain. Menekan tombol kembali tidak menampilkan layar utama pribadi Anda." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Privasi",
+        "title": "Privasi dan kontak",
+        "items": [
+          { "q": "Di mana kontak tersimpan disimpan?", "a": "Nama dan nomor hanya disimpan di perangkat Anda. ColdHello tidak menjalankan server yang menerima kontak, preferensi, atau riwayat pendekatan Anda." },
+          { "q": "Apakah menghapus aplikasi menghapus kontak saya?", "a": "Ya. Menghapus aplikasi akan menghapus permanen data lokal ColdHello. Simpan dulu nomor penting ke kontak biasa di ponsel Anda." },
+          { "q": "Apakah aplikasi ini melacak saya?", "a": "Tidak. ColdHello tidak menggunakan iklan, analitik pihak ketiga, atau pelacakan perilaku. Langganan diproses terpisah oleh Apple atau Google melalui RevenueCat." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Gratis dan Pro",
+        "title": "Gratis dan Pro",
+        "items": [
+          { "q": "Bagaimana cara kerja paket gratis?", "a": "Lima pendekatan pertama yang Anda mulai per pemasangan bersifat gratis. Satu pendekatan terhitung saat Anda menekan MULAI, baik jawabannya ya maupun tidak. Setelah itu, Pro membuka pendekatan tanpa batas." },
+          { "q": "Berapa harga Pro?", "a": "Harga bulanan dan tahunan yang tepat, mata uang, pajak, dan ketersediaan ditampilkan oleh App Store atau Google Play sebelum pembelian dan dapat berbeda menurut wilayah." },
+          { "q": "Pembelian saya tidak muncul", "a": "Buka Pengaturan di aplikasi lalu pilih Pulihkan pembelian. Pastikan perangkat memakai Apple ID atau akun Google yang sama saat membeli." },
+          { "q": "Bagaimana cara membatalkan?", "a": "Kelola atau batalkan langganan dari pengaturan langganan Apple ID atau akun Google Play Anda. Pembayaran dan pembatalan tidak ditangani langsung di dalam ColdHello." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Kontak",
+        "title": "Masih butuh bantuan?",
+        "body": "Kirim email berisi penjelasan singkat masalahnya dan platform perangkat yang Anda pakai. Jangan sertakan nomor telepon orang lain."
+      }
+    ]
+  }
+}

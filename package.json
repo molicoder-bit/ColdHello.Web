@@ -1,0 +1,10 @@
+{
+  "name": "coldhello-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static ColdHello product and legal site, generated from content/ into committed HTML.",
+  "scripts": {
+    "build": "node tools/build.js",
+    "validate": "html-validate \"*.html\" \"*/*.html\""
+  }
+}

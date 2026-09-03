@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "Zum Inhalt springen",
+    "homeAria": "ColdHello Startseite",
+    "mainNavAria": "Hauptnavigation",
+    "navHowItWorks": "So funktioniert es",
+    "navPrivacy": "Datenschutz",
+    "navSupport": "Hilfe",
+    "languageLabel": "Sprache ändern",
+    "footerTagline": "Mach den ersten Schritt, ohne ein Wort zu sagen.",
+    "footerNavAria": "Hilfe und Rechtliches",
+    "footerPrivacy": "Datenschutz",
+    "footerTerms": "Nutzungsbedingungen",
+    "appleBadgeAlt": "Laden im App Store",
+    "googleBadgeAlt": "Jetzt bei Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Mach den ersten Schritt, ohne ein Wort zu sagen",
+    "description": "ColdHello hilft schüchternen Menschen, den ersten Schritt zu machen - mit einer privaten Frage ohne Druck. Kein Konto, kein Tracking, und deine Kontakte bleiben auf dem Handy.",
+    "ogDescription": "Mach den ersten Schritt, ohne ein Wort zu sagen.",
+    "heroEyebrow": "ColdHello / Der nächste Moment gehört dir",
+    "heroHeadline1": "Sag weniger.",
+    "heroHeadline2": "Lern jemanden kennen.",
+    "heroPromise": "Für iPhone und Android gemacht.",
+    "heroDetail": "Reich dein Handy weiter. Die andere Person sieht eine klare, neutrale Frage und entscheidet privat. Kein Anmachspruch. Kein Druck in der Öffentlichkeit.",
+    "storeRowAria": "Verfügbarkeit in den App-Stores",
+    "microProofLead": "Privat by Design.",
+    "microProofRest": "Kein Konto. Kein Tracking. Kontakte bleiben auf deinem Gerät.",
+    "heroProductAria": "Vorschau der privaten Frage in ColdHello",
+    "burst1": "DEIN",
+    "burst2": "MOMENT",
+    "screenKicker": "Eine kurze Frage",
+    "screenQuestion1": "Kann ich deine",
+    "screenQuestion2": "Nummer bekommen?",
+    "demoYes": "Ja",
+    "demoNo": "Nein, danke",
+    "screenNote": "Du entscheidest. Ohne Druck.",
+    "privacyStamp1": "KEIN APP-NAME",
+    "privacyStamp2": "AUF DIESEM BILDSCHIRM",
+    "problemIndex": "01 / WARUM",
+    "problemHeadline": "Das Schwerste sind oft die ersten fünf Sekunden.",
+    "problemBody": "Dir ist jemand aufgefallen. Du willst Hallo sagen. Dann ist der Kopf leer und der Moment ist vorbei.",
+    "problemNoteLead": "ColdHello verspricht kein Ja.",
+    "problemNoteRest": "Die App gibt dir einfach eine respektvolle Art zu fragen und der anderen Person eine klare Art zu antworten.",
+    "flowIndex": "02 / DER ABLAUF",
+    "flowHeadline1": "Ein mutiger Schritt.",
+    "flowHeadline2": "Vier einfache Etappen.",
+    "flowIntro": "Nichts auswendig zu lernen. Die App begleitet den Moment und hält sich dann heraus.",
+    "steps": [
+      { "title": "Den Moment erkennen", "body": "Wähle jemanden, den du wirklich kennenlernen möchtest." },
+      { "title": "Handy weiterreichen", "body": "Die Person sieht eine neutrale Frage, nie den App-Namen oder dein privates Dashboard." },
+      { "title": "Sie entscheidet privat", "body": "Sie kann zusagen, ablehnen oder gehen. Die Antwort bleibt unter euch." },
+      { "title": "Später nachsehen", "body": "Bei einem Ja werden Name und Nummer lokal in der App gespeichert." }
+    ],
+    "privacyIndex": "03 / RESPEKT EINGEBAUT",
+    "privacyHeadline": "Eine klare Wahl für sie. Private Daten für dich.",
+    "privacyBody": "Der Bildschirm für die andere Person bleibt neutral. Eine Absage beendet die Begegnung freundlich und zeigt nie deinen privaten Startbildschirm.",
+    "proofList": [
+      "Kein Konto erforderlich",
+      "Keine Werbung und keine Analyse-Tracker",
+      "Kontakte und Verlauf bleiben auf deinem Gerät",
+      "16 Sprachen in der gesamten App"
+    ],
+    "privacyLink": "Vollständige Datenschutzerklärung lesen",
+    "statsAria": "Vorschau des privaten Statistikbildschirms",
+    "statsHeader": "Versuche",
+    "statsLabel": "Diese Woche",
+    "statsCount": "3 von 5",
+    "statsCountLabel": "erfolgreich",
+    "chartDays": ["M", "D", "M", "D", "F", "S", "S"],
+    "localBadge": "Nur auf diesem Handy gespeichert",
+    "ownerLabel": "Deine private Ansicht",
+    "featuresIndex": "04 / MEHR ALS DER MOMENT",
+    "features": [
+      { "title": "Sprich deine Sprache", "body": "Wechsle zwischen 16 Sprachen in der gesamten App." },
+      { "title": "Kontakte im Griff", "body": "Namen und Nummern sind nach der Begegnung leicht zu finden, ganz ohne Cloud-Konto." },
+      { "title": "Fortschritt sehen", "body": "Verfolge Ergebnisse aus sieben Tagen, deine Erfolgsquote und den Verlauf in deinem privaten Dashboard." }
+    ],
+    "pricingIndex": "05 / PREISE",
+    "pricingHeadline": "Probiere den mutigen Teil kostenlos.",
+    "pricingIntro": "Ein kostenloser Versuch wird verbraucht, sobald du auf STARTEN tippst - egal ob die Antwort ja oder nein lautet.",
+    "freeTier": "Kostenlos",
+    "freeTierUnit": "gestartete Versuche",
+    "freeFeatures": ["Kompletter Ablauf", "Kontakte lokal speichern", "Private Fortschrittsanzeige"],
+    "proTag": "Weitermachen",
+    "proTier": "Pro",
+    "proPrice": "Store-Preis",
+    "proPlans": "Monats- und Jahrespläne",
+    "proFeatures": ["Unbegrenzte Versuche", "Alles aus der kostenlosen Version", "Unterstützt künftige Updates"],
+    "pricingNote": "Preise und Verfügbarkeit des Stores werden in der App angezeigt und können je nach Region abweichen.",
+    "faqIndex": "06 / KLARE ANTWORTEN",
+    "faqHeadline": "Bevor du dein Handy weiterreichst.",
+    "faqLink": "Zur vollständigen Hilfe",
+    "faqs": [
+      { "q": "Sieht die Person den App-Namen?", "a": "Nein. Der Ablauf für die andere Person zeigt nur eine neutrale Frage und die Antwortmöglichkeiten. Dein Dashboard und das App-Branding bleiben verborgen." },
+      { "q": "Was passiert bei einem Nein?", "a": "Die Person sieht eine ruhige Bestätigung und der Ablauf endet. Zurückgehen kann deinen privaten Startbildschirm nicht offenlegen." },
+      { "q": "Wo wird die Nummer gespeichert?", "a": "Nur auf deinem Gerät. ColdHello betreibt keine Server, die deine Kontakte, Einstellungen oder deinen Verlauf empfangen." },
+      { "q": "Wann zählt ein kostenloser Versuch?", "a": "Er zählt, sobald du auf STARTEN tippst - unabhängig davon, ob die andere Person zusagt oder ablehnt. Deine ersten fünf gestarteten Versuche pro Installation sind kostenlos." },
+      { "q": "Wo kann ich sie herunterladen?", "a": "Die offiziellen Download-Buttons erscheinen hier, sobald der jeweilige Store-Eintrag online ist." }
+    ],
+    "finalEyebrow": "Der nächste Moment gehört dir",
+    "finalStoreAria": "Verfügbarkeit im Store"
+  },
+  "support": {
+    "title": "Hilfe - ColdHello",
+    "description": "Antworten zu ColdHello, kostenlosen Versuchen, Abos, Datenschutz, gespeicherten Kontakten und dem Wiederherstellen von Käufen.",
+    "eyebrow": "Hilfe ohne Umwege",
+    "heading": "Hilfe",
+    "intro": "Klare Antworten zur Nutzung von ColdHello, zum Schutz deiner Daten und zur Verwaltung von Pro.",
+    "navAria": "Hilfethemen",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Erste Schritte",
+        "title": "Erste Schritte",
+        "items": [
+          { "q": "Wie läuft ein Versuch ab?", "a": "Wähle die Person, die du kennenlernen möchtest, starte den Versuch und reich ihr dein Handy. Sie sieht eine neutrale Frage und kann privat antworten. Bei einem Ja gibt sie Name und Nummer selbst ein." },
+          { "q": "Sieht die Person den App-Namen?", "a": "Nein. Der Bildschirm für die andere Person zeigt nie das ColdHello-Branding, dein Dashboard oder deine Einstellungen. Er zeigt ausschließlich die neutrale Interaktion." },
+          { "q": "Was passiert, wenn jemand ablehnt?", "a": "Die App zeigt eine ruhige Bestätigung und beendet den Ablauf für die andere Person. Das Zurückgehen legt deinen privaten Startbildschirm nicht offen." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Datenschutz",
+        "title": "Datenschutz und Kontakte",
+        "items": [
+          { "q": "Wo werden gespeicherte Kontakte abgelegt?", "a": "Namen und Nummern werden nur auf deinem Gerät gespeichert. ColdHello betreibt keine Server, die deine Kontakte, Einstellungen oder deinen Verlauf empfangen." },
+          { "q": "Löscht das Deinstallieren meine Kontakte?", "a": "Ja. Beim Deinstallieren werden die lokalen Daten von ColdHello dauerhaft entfernt. Speichere wichtige Nummern vorher in den normalen Kontakten deines Handys." },
+          { "q": "Trackt mich die App?", "a": "Nein. ColdHello nutzt keine Werbung, keine Analyse von Dritten und kein verhaltensbasiertes Tracking. Abos werden separat von Apple oder Google über RevenueCat abgewickelt." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Kostenlos und Pro",
+        "title": "Kostenlos und Pro",
+        "items": [
+          { "q": "Wie funktioniert die kostenlose Stufe?", "a": "Deine ersten fünf gestarteten Versuche pro Installation sind kostenlos. Ein Versuch zählt, sobald du auf STARTEN tippst - egal ob die Antwort ja oder nein lautet. Danach schaltet Pro unbegrenzte Versuche frei." },
+          { "q": "Was kostet Pro?", "a": "Den genauen Monats- und Jahrespreis, die Währung, Steuern und die Verfügbarkeit zeigen App Store oder Google Play vor dem Kauf an; sie können je nach Region abweichen." },
+          { "q": "Mein Kauf wird nicht angezeigt", "a": "Öffne die Einstellungen in der App und wähle Käufe wiederherstellen. Achte darauf, dass das Gerät dieselbe Apple-ID oder dasselbe Google-Konto nutzt wie beim Kauf." },
+          { "q": "Wie kündige ich?", "a": "Verwalte oder kündige dein Abo in den Abo-Einstellungen deiner Apple-ID oder deines Google-Play-Kontos. Zahlungen und Kündigungen laufen nicht direkt über ColdHello." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Kontakt",
+        "title": "Brauchst du noch Hilfe?",
+        "body": "Schreib uns eine kurze Beschreibung des Problems und die genutzte Geräteplattform. Gib dabei nicht die Telefonnummer einer anderen Person an."
+      }
+    ]
+  }
+}

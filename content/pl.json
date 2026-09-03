@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "Przejdź do treści",
+    "homeAria": "Strona główna ColdHello",
+    "mainNavAria": "Nawigacja główna",
+    "navHowItWorks": "Jak to działa",
+    "navPrivacy": "Prywatność",
+    "navSupport": "Pomoc",
+    "languageLabel": "Zmień język",
+    "footerTagline": "Wykonaj pierwszy ruch bez słowa.",
+    "footerNavAria": "Pomoc i informacje prawne",
+    "footerPrivacy": "Prywatność",
+    "footerTerms": "Warunki korzystania",
+    "appleBadgeAlt": "Pobierz w App Store",
+    "googleBadgeAlt": "Pobierz z Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Wykonaj pierwszy ruch bez słowa",
+    "description": "ColdHello pomaga nieśmiałym osobom wykonać pierwszy ruch dzięki prywatnemu pytaniu bez presji. Bez kont, bez śledzenia, a kontakty zostają w twoim telefonie.",
+    "ogDescription": "Wykonaj pierwszy ruch bez słowa.",
+    "heroEyebrow": "ColdHello / Następna chwila należy do ciebie",
+    "heroHeadline1": "Powiedz mniej.",
+    "heroHeadline2": "Poznaj kogoś.",
+    "heroPromise": "Stworzona na iPhone'a i Androida.",
+    "heroDetail": "Podaj swój telefon. Druga osoba widzi jedno jasne, neutralne pytanie i decyduje prywatnie. Żadnych tekstów na podryw. Żadnej presji przy ludziach.",
+    "storeRowAria": "Dostępność w sklepach z aplikacjami",
+    "microProofLead": "Prywatna z założenia.",
+    "microProofRest": "Bez konta. Bez śledzenia. Kontakty zostają na twoim urządzeniu.",
+    "heroProductAria": "Podgląd prywatnego pytania wyświetlanego w ColdHello",
+    "burst1": "TWÓJ",
+    "burst2": "RUCH",
+    "screenKicker": "Krótkie pytanie",
+    "screenQuestion1": "Czy mogę dostać",
+    "screenQuestion2": "twój numer?",
+    "demoYes": "Tak",
+    "demoNo": "Nie, dziękuję",
+    "screenNote": "Ty decydujesz. Bez presji.",
+    "privacyStamp1": "BEZ NAZWY APLIKACJI",
+    "privacyStamp2": "NA TYM EKRANIE",
+    "problemIndex": "01 / DLACZEGO",
+    "problemHeadline": "Najtrudniejsze jest zwykle pierwsze pięć sekund.",
+    "problemBody": "Zauważyłeś kogoś. Chcesz się przywitać. Wtedy w głowie robi się pusto i chwila mija.",
+    "problemNoteLead": "ColdHello nie obiecuje odpowiedzi tak.",
+    "problemNoteRest": "Daje ci po prostu pełen szacunku sposób zapytania, a drugiej osobie jasny sposób odpowiedzi.",
+    "flowIndex": "02 / PRZEBIEG",
+    "flowHeadline1": "Jeden odważny ruch.",
+    "flowHeadline2": "Cztery proste kroki.",
+    "flowIntro": "Niczego nie trzeba uczyć się na pamięć. Aplikacja prowadzi przez tę chwilę, a potem usuwa się w cień.",
+    "steps": [
+      { "title": "Wyczuj moment", "body": "Wybierz osobę, którą naprawdę chcesz poznać." },
+      { "title": "Podaj telefon", "body": "Zobaczy neutralne pytanie, nigdy nazwy aplikacji ani twojego prywatnego panelu." },
+      { "title": "Decyduje prywatnie", "body": "Może się zgodzić, odmówić albo odejść. Odpowiedź zostaje między wami." },
+      { "title": "Sprawdź później", "body": "Jeśli się zgodzi, imię i numer zostaną zapisane lokalnie w aplikacji." }
+    ],
+    "privacyIndex": "03 / SZACUNEK OD PODSTAW",
+    "privacyHeadline": "Jasny wybór dla niej. Prywatne dane dla ciebie.",
+    "privacyBody": "Ekran widziany przez drugą osobę pozostaje neutralny. Odmowa kończy interakcję kulturalnie i nigdy nie odsłania twojego prywatnego ekranu głównego.",
+    "proofList": [
+      "Konto niepotrzebne",
+      "Bez reklam i trackerów analitycznych",
+      "Kontakty i historia zostają na twoim urządzeniu",
+      "16 języków w całej aplikacji"
+    ],
+    "privacyLink": "Przeczytaj pełną politykę prywatności",
+    "statsAria": "Podgląd prywatnego ekranu ze statystykami",
+    "statsHeader": "Podejścia",
+    "statsLabel": "W tym tygodniu",
+    "statsCount": "3 z 5",
+    "statsCountLabel": "udanych",
+    "chartDays": ["P", "W", "Ś", "C", "P", "S", "N"],
+    "localBadge": "Zapisane tylko na tym telefonie",
+    "ownerLabel": "Twój prywatny widok",
+    "featuresIndex": "04 / WIĘCEJ NIŻ CHWILA",
+    "features": [
+      { "title": "Mów w swoim języku", "body": "Przełączaj się między 16 językami w całej aplikacji." },
+      { "title": "Trzymaj kontakty w porządku", "body": "Imiona i numery łatwo znaleźć po spotkaniu, bez konta w chmurze." },
+      { "title": "Zobacz swoje postępy", "body": "Śledź wyniki z siedmiu dni, skuteczność i historię w prywatnym panelu." }
+    ],
+    "pricingIndex": "05 / CENNIK",
+    "pricingHeadline": "Wypróbuj odważną część za darmo.",
+    "pricingIntro": "Bezpłatne podejście zostaje zużyte, gdy dotkniesz ROZPOCZNIJ, niezależnie od tego, czy odpowiedź brzmi tak, czy nie.",
+    "freeTier": "Bezpłatny",
+    "freeTierUnit": "rozpoczętych podejść",
+    "freeFeatures": ["Pełny przebieg", "Lokalny zapis kontaktów", "Prywatne śledzenie postępów"],
+    "proTag": "Działaj dalej",
+    "proTier": "Pro",
+    "proPrice": "Cena w sklepie",
+    "proPlans": "Plany miesięczne i roczne",
+    "proFeatures": ["Nieograniczone podejścia", "Wszystko z wersji bezpłatnej", "Wspiera przyszłe aktualizacje"],
+    "pricingNote": "Ceny i dostępność w sklepie są pokazywane w aplikacji i mogą się różnić w zależności od regionu.",
+    "faqIndex": "06 / KONKRETNE ODPOWIEDZI",
+    "faqHeadline": "Zanim podasz swój telefon.",
+    "faqLink": "Zobacz całą pomoc",
+    "faqs": [
+      { "q": "Czy zobaczy nazwę aplikacji?", "a": "Nie. Ekran dla drugiej osoby pokazuje tylko neutralne pytanie i opcje odpowiedzi. Twój panel i marka aplikacji pozostają ukryte." },
+      { "q": "Co się stanie, jeśli odmówi?", "a": "Zobaczy spokojny komunikat i przebieg się kończy. Cofnięcie się nie odsłoni twojego prywatnego ekranu głównego." },
+      { "q": "Gdzie zapisywany jest jej numer?", "a": "Wyłącznie na twoim urządzeniu. ColdHello nie prowadzi serwerów, które odbierają twoje kontakty, ustawienia czy historię." },
+      { "q": "Kiedy liczy się bezpłatne podejście?", "a": "Liczy się w momencie dotknięcia ROZPOCZNIJ, niezależnie od tego, czy druga osoba się zgodzi, czy odmówi. Pierwsze pięć rozpoczętych podejść na instalację jest bezpłatnych." },
+      { "q": "Gdzie mogę ją pobrać?", "a": "Oficjalne przyciski pobierania pojawią się tutaj, gdy każda strona sklepu będzie dostępna." }
+    ],
+    "finalEyebrow": "Następna chwila należy do ciebie",
+    "finalStoreAria": "Dostępność w sklepach"
+  },
+  "support": {
+    "title": "Pomoc - ColdHello",
+    "description": "Odpowiedzi o ColdHello, bezpłatnych podejściach, subskrypcjach, prywatności, zapisanych kontaktach i przywracaniu zakupów.",
+    "eyebrow": "Pomoc bez owijania w bawełnę",
+    "heading": "Pomoc",
+    "intro": "Jasne odpowiedzi o korzystaniu z ColdHello, ochronie twoich danych i zarządzaniu wersją Pro.",
+    "navAria": "Tematy pomocy",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Pierwsze kroki",
+        "title": "Pierwsze kroki",
+        "items": [
+          { "q": "Jak przebiega podejście?", "a": "Wybierz osobę, którą chcesz poznać, rozpocznij podejście i podaj jej telefon. Zobaczy neutralne pytanie i będzie mogła odpowiedzieć prywatnie. Jeśli się zgodzi, sama wpisze imię i numer." },
+          { "q": "Czy ta osoba widzi nazwę aplikacji?", "a": "Nie. Ekran przeznaczony dla niej nigdy nie pokazuje marki ColdHello, twojego panelu ani ustawień. Widoczna jest wyłącznie neutralna interakcja." },
+          { "q": "Co się dzieje, gdy ktoś odmówi?", "a": "Aplikacja pokazuje spokojny komunikat i zamyka ekran przeznaczony dla drugiej osoby. Cofnięcie się nie odsłania twojego prywatnego ekranu głównego." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Prywatność",
+        "title": "Prywatność i kontakty",
+        "items": [
+          { "q": "Gdzie przechowywane są zapisane kontakty?", "a": "Imiona i numery są zapisywane wyłącznie na twoim urządzeniu. ColdHello nie prowadzi serwerów, które odbierają twoje kontakty, ustawienia czy historię podejść." },
+          { "q": "Czy odinstalowanie usunie moje kontakty?", "a": "Tak. Odinstalowanie trwale usuwa lokalne dane ColdHello. Najpierw zapisz ważne numery w zwykłych kontaktach telefonu." },
+          { "q": "Czy aplikacja mnie śledzi?", "a": "Nie. ColdHello nie korzysta z reklam, zewnętrznej analityki ani śledzenia zachowań. Subskrypcje obsługują osobno Apple lub Google przy użyciu RevenueCat." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Bezpłatny i Pro",
+        "title": "Bezpłatny i Pro",
+        "items": [
+          { "q": "Jak działa wersja bezpłatna?", "a": "Pierwsze pięć rozpoczętych podejść na instalację jest bezpłatnych. Podejście liczy się w momencie dotknięcia ROZPOCZNIJ, niezależnie od odpowiedzi. Później wersja Pro odblokowuje nieograniczone podejścia." },
+          { "q": "Ile kosztuje Pro?", "a": "Dokładną cenę miesięczną i roczną, walutę, podatki oraz dostępność pokazuje App Store lub Google Play przed zakupem; mogą się różnić w zależności od regionu." },
+          { "q": "Mój zakup się nie pojawia", "a": "Otwórz Ustawienia w aplikacji i wybierz Przywróć zakupy. Upewnij się, że urządzenie korzysta z tego samego Apple ID lub konta Google, na którym dokonano zakupu." },
+          { "q": "Jak anulować?", "a": "Zarządzaj subskrypcją lub anuluj ją w ustawieniach subskrypcji swojego Apple ID albo konta Google Play. Płatności i anulowanie nie są obsługiwane bezpośrednio w ColdHello." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Kontakt",
+        "title": "Nadal potrzebujesz pomocy?",
+        "body": "Napisz do nas, podając krótki opis problemu i platformę urządzenia, z którego korzystasz. Nie podawaj numeru telefonu innej osoby."
+      }
+    ]
+  }
+}

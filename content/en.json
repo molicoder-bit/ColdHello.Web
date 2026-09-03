@@ -1,0 +1,195 @@
+{
+  "chrome": {
+    "skipToContent": "Skip to content",
+    "homeAria": "ColdHello home",
+    "mainNavAria": "Main navigation",
+    "navHowItWorks": "How it works",
+    "navPrivacy": "Privacy",
+    "navSupport": "Support",
+    "languageLabel": "Change language",
+    "footerTagline": "Make the first move without saying a word.",
+    "footerNavAria": "Legal and support",
+    "footerPrivacy": "Privacy Policy",
+    "footerTerms": "Terms of Use",
+    "appleBadgeAlt": "Download on the App Store",
+    "googleBadgeAlt": "Get it on Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Make the first move without saying a word",
+    "description": "ColdHello helps shy people make the first move with a private, pressure-free prompt. No accounts, no tracking, and your contacts stay on your phone.",
+    "ogDescription": "Make the first move without saying a word.",
+    "heroEyebrow": "ColdHello / The next moment is yours",
+    "heroHeadline1": "Say less.",
+    "heroHeadline2": "Meet someone.",
+    "heroPromise": "Built for iPhone and Android.",
+    "heroDetail": "Hand over your phone. They see one clear, neutral question and choose privately. No pickup line. No public pressure.",
+    "storeRowAria": "App store availability",
+    "microProofLead": "Private by design.",
+    "microProofRest": "No account. No tracking. Contacts stay on your device.",
+    "heroProductAria": "Preview of the private question shown in ColdHello",
+    "burst1": "YOUR",
+    "burst2": "MOVE",
+    "screenKicker": "A quick question",
+    "screenQuestion1": "Can I get",
+    "screenQuestion2": "your number?",
+    "demoYes": "Yes",
+    "demoNo": "No, thanks",
+    "screenNote": "You choose. No pressure.",
+    "privacyStamp1": "NO APP NAME",
+    "privacyStamp2": "ON THIS SCREEN",
+    "problemIndex": "01 / WHY",
+    "problemHeadline": "The hardest part is often the first five seconds.",
+    "problemBody": "You noticed someone. You want to say hello. Then your mind goes blank and the moment passes.",
+    "problemNoteLead": "ColdHello does not promise a yes.",
+    "problemNoteRest": "It simply gives you a respectful way to ask and gives them a clear way to answer.",
+    "flowIndex": "02 / THE FLOW",
+    "flowHeadline1": "One brave move.",
+    "flowHeadline2": "Four simple steps.",
+    "flowIntro": "No script to memorize. The app guides the moment, then gets out of the way.",
+    "steps": [
+      { "title": "Spot the moment", "body": "Choose someone you would genuinely like to meet." },
+      { "title": "Hand over your phone", "body": "They see a neutral question, never the app name or your private dashboard." },
+      { "title": "They decide privately", "body": "They can say yes, decline, or leave. Their answer stays between you." },
+      { "title": "Check later", "body": "If they choose yes, their name and number are saved locally in the app." }
+    ],
+    "privacyIndex": "03 / RESPECT BUILT IN",
+    "privacyHeadline": "A clear choice for them. Private data for you.",
+    "privacyBody": "The stranger-facing screen stays neutral. A decline closes the interaction gracefully and never reveals your private home screen.",
+    "proofList": [
+      "No account required",
+      "No advertising or analytics trackers",
+      "Contacts and approach history stay on your device",
+      "16 languages throughout the app"
+    ],
+    "privacyLink": "Read the full privacy policy",
+    "statsAria": "Preview of the private owner analytics screen",
+    "statsHeader": "Approaches",
+    "statsLabel": "This week",
+    "statsCount": "3 of 5",
+    "statsCountLabel": "successful",
+    "chartDays": ["M", "T", "W", "T", "F", "S", "S"],
+    "localBadge": "Saved only on this phone",
+    "ownerLabel": "Your private view",
+    "featuresIndex": "04 / MORE THAN THE MOMENT",
+    "features": [
+      { "title": "Speak your language", "body": "Switch between 16 languages across the full app experience." },
+      { "title": "Keep contacts organized", "body": "Names and numbers are easy to find after the interaction, without a cloud account." },
+      { "title": "See your progress", "body": "Track seven-day results, success rate, and approach history in your private dashboard." }
+    ],
+    "pricingIndex": "05 / PRICING",
+    "pricingHeadline": "Try the courage part free.",
+    "pricingIntro": "A free approach is used when you tap START, whether the answer is yes or no.",
+    "freeTier": "Free",
+    "freeTierUnit": "free approaches",
+    "freeFeatures": ["Complete approach flow", "Save up to 5 contacts", "Private progress tracking"],
+    "proTag": "Keep going",
+    "proTier": "Pro",
+    "proPrice": "Store price",
+    "proPlans": "Monthly and annual plans",
+    "proFeatures": ["Unlimited approaches", "Everything in Free", "Supports future updates"],
+    "pricingNote": "Storefront prices and availability are shown in the app and may vary by region.",
+    "faqIndex": "06 / STRAIGHT ANSWERS",
+    "faqHeadline": "Before you hand over your phone.",
+    "faqLink": "Visit full support",
+    "faqs": [
+      { "q": "Will they see the app name?", "a": "No. The stranger-facing flow shows only a neutral question and response choices. Your dashboard and app branding stay hidden." },
+      { "q": "What happens if they say no?", "a": "They see a calm acknowledgement and the flow ends. Going back cannot expose your private home screen." },
+      { "q": "Where is their number stored?", "a": "Only on your device. ColdHello does not run servers that receive your contacts, preferences, or approach history." },
+      { "q": "When does a free approach count?", "a": "It counts when you tap START, whether the other person accepts or declines. You can start up to 10 free approaches per installation, or save up to 5 contacts, whichever happens first." },
+      { "q": "Where can I download it?", "a": "Official download buttons appear here when each store listing is live." }
+    ],
+    "finalEyebrow": "The next moment is yours",
+    "finalStoreAria": "Store availability"
+  },
+  "support": {
+    "title": "Support - ColdHello",
+    "description": "Get answers about ColdHello, free approaches, subscriptions, privacy, saved contacts, and purchase restoration.",
+    "eyebrow": "Help without the runaround",
+    "heading": "Support",
+    "intro": "Clear answers about using ColdHello, keeping your data private, and managing Pro.",
+    "navAria": "Support topics",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Getting started",
+        "title": "Getting started",
+        "items": [
+          { "q": "How does an approach work?", "a": "Choose who you would like to meet, start the approach, and hand them your phone. They see a neutral question and can answer privately. If they say yes, they enter their own name and number." },
+          { "q": "Does the person see the app name?", "a": "No. The stranger-facing screen never displays ColdHello branding, your dashboard, or your settings. It shows only the neutral interaction." },
+          { "q": "What happens when someone declines?", "a": "The app shows a calm acknowledgement and ends the stranger-facing flow. Back navigation does not reveal your private home screen." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Privacy and contacts",
+        "title": "Privacy and contacts",
+        "items": [
+          { "q": "Where are saved contacts kept?", "a": "Names and numbers are stored only on your device. ColdHello does not operate servers that receive your contacts, preferences, or approach history." },
+          { "q": "Will uninstalling remove my contacts?", "a": "Yes. Uninstalling permanently removes ColdHello's local data. Save any important numbers to your phone's regular contacts first." },
+          { "q": "Does the app track me?", "a": "No. ColdHello does not use advertising, third-party analytics, or behavioral tracking. Subscription processing is handled separately by Apple or Google using RevenueCat." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Free and Pro",
+        "title": "Free and Pro",
+        "items": [
+          { "q": "How does the free tier work?", "a": "You can start up to 10 free approaches per installation, or save up to 5 contacts, whichever happens first. An approach counts when you tap START, whether the answer is yes or no. After that, Pro unlocks unlimited approaches." },
+          { "q": "What does Pro cost?", "a": "The exact monthly and annual price, currency, taxes, and availability are shown by the App Store or Google Play before purchase and may vary by region." },
+          { "q": "My purchase is not showing", "a": "Open Settings in the app and choose Restore purchases. Make sure the device uses the same Apple ID or Google account that made the purchase." },
+          { "q": "How do I cancel?", "a": "Manage or cancel your subscription from your Apple ID or Google Play account settings. Payments and cancellations are not handled directly inside ColdHello." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Contact",
+        "title": "Still need help?",
+        "body": "Email us with a short description of the issue and the device platform you use. Do not include another person's phone number."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy - ColdHello",
+    "description": "How ColdHello keeps contacts, preferences, and approach history on your device and handles subscription purchases.",
+    "eyebrow": "Privacy, explained clearly",
+    "heading": "Privacy Policy",
+    "intro": "Your contacts and approach history stay on your device. This full notice explains the limited information used to run the website, subscriptions, and support.",
+    "updated": "Effective and last updated: August 30, 2026",
+    "navAria": "Privacy policy sections",
+    "nav": [
+      { "id": "scope", "label": "Scope" },
+      { "id": "collection", "label": "Information" },
+      { "id": "use", "label": "How we use it" },
+      { "id": "sharing", "label": "Sharing" },
+      { "id": "retention", "label": "Retention" },
+      { "id": "choices", "label": "Your choices" },
+      { "id": "security", "label": "Security" },
+      { "id": "children", "label": "Children" },
+      { "id": "changes", "label": "Changes" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Use - ColdHello",
+    "description": "ColdHello terms covering the service, subscriptions, acceptable use, warranties, and liability.",
+    "eyebrow": "Use it respectfully",
+    "heading": "Terms of Use",
+    "intro": "These terms explain the service, subscriptions, and the responsibility that comes with every approach.",
+    "updated": "Effective and last updated: August 30, 2026",
+    "navAria": "Terms sections",
+    "nav": [
+      { "id": "agreement", "label": "Agreement" },
+      { "id": "eligibility", "label": "Eligibility" },
+      { "id": "service", "label": "Service" },
+      { "id": "subscriptions", "label": "Subscriptions" },
+      { "id": "cancellation", "label": "Cancellation" },
+      { "id": "acceptable-use", "label": "Acceptable use" },
+      { "id": "stores", "label": "App stores" },
+      { "id": "warranty", "label": "Warranty" },
+      { "id": "liability", "label": "Liability" },
+      { "id": "changes", "label": "Changes" },
+      { "id": "law", "label": "Law" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  }
+}

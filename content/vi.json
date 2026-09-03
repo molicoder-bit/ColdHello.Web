@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "Chuyển đến nội dung",
+    "homeAria": "Trang chủ ColdHello",
+    "mainNavAria": "Điều hướng chính",
+    "navHowItWorks": "Cách hoạt động",
+    "navPrivacy": "Quyền riêng tư",
+    "navSupport": "Hỗ trợ",
+    "languageLabel": "Đổi ngôn ngữ",
+    "footerTagline": "Thực hiện bước đầu tiên mà không nói một lời.",
+    "footerNavAria": "Hỗ trợ và pháp lý",
+    "footerPrivacy": "Quyền riêng tư",
+    "footerTerms": "Điều khoản sử dụng",
+    "appleBadgeAlt": "Tải trên App Store",
+    "googleBadgeAlt": "Tải xuống trên Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Thực hiện bước đầu tiên mà không nói một lời",
+    "description": "ColdHello giúp những người ngại ngùng thực hiện bước đầu tiên bằng một câu hỏi riêng tư, không áp lực. Không tài khoản, không theo dõi, và danh bạ của bạn ở lại trên điện thoại.",
+    "ogDescription": "Thực hiện bước đầu tiên mà không nói một lời.",
+    "heroEyebrow": "ColdHello / Khoảnh khắc tiếp theo là của bạn",
+    "heroHeadline1": "Nói ít hơn.",
+    "heroHeadline2": "Gặp một người.",
+    "heroPromise": "Dành cho iPhone và Android.",
+    "heroDetail": "Đưa điện thoại của bạn cho họ. Họ thấy một câu hỏi rõ ràng, trung lập và tự quyết định riêng tư. Không cần câu tán tỉnh. Không áp lực trước đám đông.",
+    "storeRowAria": "Tình trạng có mặt trên cửa hàng ứng dụng",
+    "microProofLead": "Riêng tư ngay từ thiết kế.",
+    "microProofRest": "Không tài khoản. Không theo dõi. Danh bạ ở lại trên thiết bị của bạn.",
+    "heroProductAria": "Xem trước câu hỏi riêng tư hiển thị trong ColdHello",
+    "burst1": "LƯỢT",
+    "burst2": "CỦA BẠN",
+    "screenKicker": "Một câu hỏi nhanh",
+    "screenQuestion1": "Tôi có thể lấy",
+    "screenQuestion2": "số của bạn không?",
+    "demoYes": "Có",
+    "demoNo": "Không, cảm ơn",
+    "screenNote": "Bạn quyết định. Không áp lực.",
+    "privacyStamp1": "KHÔNG CÓ TÊN ỨNG DỤNG",
+    "privacyStamp2": "TRÊN MÀN HÌNH NÀY",
+    "problemIndex": "01 / VÌ SAO",
+    "problemHeadline": "Phần khó nhất thường là năm giây đầu tiên.",
+    "problemBody": "Bạn để ý đến một người. Bạn muốn chào hỏi. Rồi đầu óc trống rỗng và khoảnh khắc ấy trôi qua.",
+    "problemNoteLead": "ColdHello không hứa hẹn một câu đồng ý.",
+    "problemNoteRest": "Ứng dụng chỉ mang lại cho bạn một cách hỏi lịch sự và cho người kia một cách trả lời rõ ràng.",
+    "flowIndex": "02 / QUY TRÌNH",
+    "flowHeadline1": "Một bước can đảm.",
+    "flowHeadline2": "Bốn bước đơn giản.",
+    "flowIntro": "Không có kịch bản nào phải học thuộc. Ứng dụng dẫn dắt khoảnh khắc rồi lùi lại phía sau.",
+    "steps": [
+      { "title": "Nhận ra khoảnh khắc", "body": "Chọn một người mà bạn thực sự muốn làm quen." },
+      { "title": "Đưa điện thoại cho họ", "body": "Họ thấy một câu hỏi trung lập, không bao giờ thấy tên ứng dụng hay bảng điều khiển riêng của bạn." },
+      { "title": "Họ tự quyết định", "body": "Họ có thể đồng ý, từ chối hoặc rời đi. Câu trả lời chỉ nằm giữa hai người." },
+      { "title": "Xem lại sau", "body": "Nếu họ đồng ý, tên và số của họ được lưu ngay trong ứng dụng trên máy bạn." }
+    ],
+    "privacyIndex": "03 / TÔN TRỌNG SẴN CÓ",
+    "privacyHeadline": "Lựa chọn rõ ràng cho họ. Dữ liệu riêng tư cho bạn.",
+    "privacyBody": "Màn hình dành cho người kia luôn trung lập. Lời từ chối khép lại cuộc trò chuyện một cách nhẹ nhàng và không bao giờ để lộ màn hình chính riêng tư của bạn.",
+    "proofList": [
+      "Không cần tài khoản",
+      "Không quảng cáo hay công cụ theo dõi phân tích",
+      "Danh bạ và lịch sử ở lại trên thiết bị của bạn",
+      "16 ngôn ngữ trong toàn bộ ứng dụng"
+    ],
+    "privacyLink": "Đọc chính sách quyền riêng tư đầy đủ",
+    "statsAria": "Xem trước màn hình thống kê riêng tư",
+    "statsHeader": "Lượt tiếp cận",
+    "statsLabel": "Tuần này",
+    "statsCount": "3 trên 5",
+    "statsCountLabel": "thành công",
+    "chartDays": ["T2", "T3", "T4", "T5", "T6", "T7", "CN"],
+    "localBadge": "Chỉ lưu trên điện thoại này",
+    "ownerLabel": "Chế độ xem riêng của bạn",
+    "featuresIndex": "04 / HƠN CẢ KHOẢNH KHẮC",
+    "features": [
+      { "title": "Dùng ngôn ngữ của bạn", "body": "Chuyển đổi giữa 16 ngôn ngữ trong toàn bộ trải nghiệm ứng dụng." },
+      { "title": "Giữ danh bạ gọn gàng", "body": "Tên và số dễ tìm lại sau cuộc gặp, không cần tài khoản đám mây." },
+      { "title": "Theo dõi tiến bộ", "body": "Xem kết quả bảy ngày, tỷ lệ thành công và lịch sử trong bảng điều khiển riêng của bạn." }
+    ],
+    "pricingIndex": "05 / GIÁ",
+    "pricingHeadline": "Dùng thử miễn phí phần cần can đảm.",
+    "pricingIntro": "Một lượt tiếp cận miễn phí được tính khi bạn chạm BẮT ĐẦU, dù câu trả lời là có hay không.",
+    "freeTier": "Miễn phí",
+    "freeTierUnit": "lượt tiếp cận đã bắt đầu",
+    "freeFeatures": ["Quy trình đầy đủ", "Lưu danh bạ trên máy", "Theo dõi tiến bộ riêng tư"],
+    "proTag": "Tiếp tục",
+    "proTier": "Pro",
+    "proPrice": "Giá trên cửa hàng",
+    "proPlans": "Gói theo tháng và theo năm",
+    "proFeatures": ["Lượt tiếp cận không giới hạn", "Mọi thứ có trong bản miễn phí", "Hỗ trợ các bản cập nhật sau này"],
+    "pricingNote": "Giá và tình trạng có hàng của cửa hàng được hiển thị trong ứng dụng và có thể khác nhau theo khu vực.",
+    "faqIndex": "06 / CÂU TRẢ LỜI THẲNG THẮN",
+    "faqHeadline": "Trước khi bạn đưa điện thoại.",
+    "faqLink": "Xem toàn bộ phần hỗ trợ",
+    "faqs": [
+      { "q": "Họ có thấy tên ứng dụng không?", "a": "Không. Phần dành cho người kia chỉ hiển thị một câu hỏi trung lập và các lựa chọn trả lời. Bảng điều khiển và thương hiệu ứng dụng của bạn vẫn được ẩn." },
+      { "q": "Điều gì xảy ra nếu họ nói không?", "a": "Họ thấy một lời ghi nhận nhẹ nhàng và quy trình kết thúc. Việc quay lại không thể để lộ màn hình chính riêng tư của bạn." },
+      { "q": "Số của họ được lưu ở đâu?", "a": "Chỉ trên thiết bị của bạn. ColdHello không vận hành máy chủ nào nhận danh bạ, tùy chọn hay lịch sử của bạn." },
+      { "q": "Khi nào một lượt tiếp cận miễn phí được tính?", "a": "Được tính khi bạn chạm BẮT ĐẦU, dù người kia đồng ý hay từ chối. Năm lượt tiếp cận đầu tiên được bắt đầu trên mỗi lần cài đặt là miễn phí." },
+      { "q": "Tôi có thể tải ứng dụng ở đâu?", "a": "Các nút tải chính thức sẽ xuất hiện tại đây khi từng trang cửa hàng được phát hành." }
+    ],
+    "finalEyebrow": "Khoảnh khắc tiếp theo là của bạn",
+    "finalStoreAria": "Tình trạng có mặt trên cửa hàng"
+  },
+  "support": {
+    "title": "Hỗ trợ - ColdHello",
+    "description": "Giải đáp về ColdHello, lượt tiếp cận miễn phí, gói đăng ký, quyền riêng tư, danh bạ đã lưu và khôi phục giao dịch mua.",
+    "eyebrow": "Hỗ trợ không vòng vo",
+    "heading": "Hỗ trợ",
+    "intro": "Giải đáp rõ ràng về cách dùng ColdHello, giữ dữ liệu của bạn riêng tư và quản lý gói Pro.",
+    "navAria": "Chủ đề hỗ trợ",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Bắt đầu",
+        "title": "Bắt đầu",
+        "items": [
+          { "q": "Một lượt tiếp cận diễn ra thế nào?", "a": "Chọn người bạn muốn làm quen, bắt đầu lượt tiếp cận và đưa điện thoại cho họ. Họ thấy một câu hỏi trung lập và có thể trả lời riêng tư. Nếu đồng ý, họ tự nhập tên và số của mình." },
+          { "q": "Người đó có thấy tên ứng dụng không?", "a": "Không. Màn hình dành cho họ không bao giờ hiển thị thương hiệu ColdHello, bảng điều khiển hay cài đặt của bạn. Chỉ có phần tương tác trung lập." },
+          { "q": "Điều gì xảy ra khi ai đó từ chối?", "a": "Ứng dụng hiển thị một lời ghi nhận nhẹ nhàng và kết thúc phần dành cho người kia. Việc quay lại không để lộ màn hình chính riêng tư của bạn." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Quyền riêng tư",
+        "title": "Quyền riêng tư và danh bạ",
+        "items": [
+          { "q": "Danh bạ đã lưu được giữ ở đâu?", "a": "Tên và số chỉ được lưu trên thiết bị của bạn. ColdHello không vận hành máy chủ nào nhận danh bạ, tùy chọn hay lịch sử tiếp cận của bạn." },
+          { "q": "Gỡ cài đặt có xóa danh bạ của tôi không?", "a": "Có. Gỡ cài đặt sẽ xóa vĩnh viễn dữ liệu cục bộ của ColdHello. Hãy lưu những số quan trọng vào danh bạ thông thường của điện thoại trước." },
+          { "q": "Ứng dụng có theo dõi tôi không?", "a": "Không. ColdHello không dùng quảng cáo, phân tích của bên thứ ba hay theo dõi hành vi. Gói đăng ký được Apple hoặc Google xử lý riêng thông qua RevenueCat." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Miễn phí và Pro",
+        "title": "Miễn phí và Pro",
+        "items": [
+          { "q": "Bản miễn phí hoạt động thế nào?", "a": "Năm lượt tiếp cận đầu tiên được bắt đầu trên mỗi lần cài đặt là miễn phí. Một lượt được tính khi bạn chạm BẮT ĐẦU, dù câu trả lời là có hay không. Sau đó, Pro mở khóa lượt tiếp cận không giới hạn." },
+          { "q": "Pro có giá bao nhiêu?", "a": "Giá theo tháng và theo năm chính xác, đơn vị tiền tệ, thuế và tình trạng có hàng được App Store hoặc Google Play hiển thị trước khi mua và có thể khác nhau theo khu vực." },
+          { "q": "Giao dịch mua của tôi không hiển thị", "a": "Mở Cài đặt trong ứng dụng và chọn Khôi phục giao dịch mua. Hãy chắc chắn thiết bị dùng đúng Apple ID hoặc tài khoản Google đã thực hiện giao dịch." },
+          { "q": "Tôi hủy bằng cách nào?", "a": "Quản lý hoặc hủy gói đăng ký trong phần cài đặt đăng ký của Apple ID hoặc tài khoản Google Play. Thanh toán và hủy không được xử lý trực tiếp trong ColdHello." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Liên hệ",
+        "title": "Vẫn cần trợ giúp?",
+        "body": "Hãy gửi email cho chúng tôi kèm mô tả ngắn về vấn đề và nền tảng thiết bị bạn dùng. Đừng đưa số điện thoại của người khác vào email."
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "Gå til innholdet",
+    "homeAria": "ColdHello hjem",
+    "mainNavAria": "Hovednavigasjon",
+    "navHowItWorks": "Slik fungerer det",
+    "navPrivacy": "Personvern",
+    "navSupport": "Hjelp",
+    "languageLabel": "Bytt språk",
+    "footerTagline": "Gjør det første trekket uten å si et ord.",
+    "footerNavAria": "Hjelp og juridisk",
+    "footerPrivacy": "Personvern",
+    "footerTerms": "Bruksvilkår",
+    "appleBadgeAlt": "Last ned i App Store",
+    "googleBadgeAlt": "Hent den på Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Gjør det første trekket uten å si et ord",
+    "description": "ColdHello hjelper sjenerte folk med å ta det første trekket gjennom et privat spørsmål uten press. Ingen konto, ingen sporing, og kontaktene blir på telefonen din.",
+    "ogDescription": "Gjør det første trekket uten å si et ord.",
+    "heroEyebrow": "ColdHello / Det neste øyeblikket er ditt",
+    "heroHeadline1": "Si mindre.",
+    "heroHeadline2": "Møt noen.",
+    "heroPromise": "Laget for iPhone og Android.",
+    "heroDetail": "Rekk fram telefonen din. Personen ser ett tydelig, nøytralt spørsmål og velger i fred. Ingen sjekkereplikk. Ingen press foran andre.",
+    "storeRowAria": "Tilgjengelighet i appbutikkene",
+    "microProofLead": "Privat fra bunnen av.",
+    "microProofRest": "Ingen konto. Ingen sporing. Kontaktene blir på enheten din.",
+    "heroProductAria": "Forhåndsvisning av det private spørsmålet i ColdHello",
+    "burst1": "DIN",
+    "burst2": "TUR",
+    "screenKicker": "Et kjapt spørsmål",
+    "screenQuestion1": "Kan jeg få",
+    "screenQuestion2": "nummeret ditt?",
+    "demoYes": "Ja",
+    "demoNo": "Nei takk",
+    "screenNote": "Du velger. Uten press.",
+    "privacyStamp1": "INGEN APPNAVN",
+    "privacyStamp2": "PÅ DENNE SKJERMEN",
+    "problemIndex": "01 / HVORFOR",
+    "problemHeadline": "Det vanskeligste er ofte de første fem sekundene.",
+    "problemBody": "Du la merke til noen. Du vil si hei. Så blir hodet tomt og øyeblikket forsvinner.",
+    "problemNoteLead": "ColdHello lover ikke et ja.",
+    "problemNoteRest": "Appen gir deg rett og slett en respektfull måte å spørre på, og den andre en tydelig måte å svare på.",
+    "flowIndex": "02 / FORLØPET",
+    "flowHeadline1": "Ett modig trekk.",
+    "flowHeadline2": "Fire enkle steg.",
+    "flowIntro": "Ingenting å pugge. Appen leder deg gjennom øyeblikket og trekker seg så unna.",
+    "steps": [
+      { "title": "Se øyeblikket", "body": "Velg noen du virkelig har lyst til å møte." },
+      { "title": "Rekk fram telefonen", "body": "Personen ser et nøytralt spørsmål, aldri appnavnet eller din private oversikt." },
+      { "title": "Personen velger selv", "body": "Hen kan si ja, si nei eller gå. Svaret blir mellom dere." },
+      { "title": "Sjekk etterpå", "body": "Ved et ja lagres navn og nummer lokalt i appen." }
+    ],
+    "privacyIndex": "03 / RESPEKT INNEBYGD",
+    "privacyHeadline": "Et tydelig valg for hen. Private data for deg.",
+    "privacyBody": "Skjermen den andre ser, forblir nøytral. Et nei avslutter møtet pent og viser aldri din private startskjerm.",
+    "proofList": [
+      "Ingen konto nødvendig",
+      "Ingen reklame eller analysesporere",
+      "Kontakter og historikk blir på enheten din",
+      "16 språk i hele appen"
+    ],
+    "privacyLink": "Les hele personvernerklæringen",
+    "statsAria": "Forhåndsvisning av den private statistikkskjermen",
+    "statsHeader": "Forsøk",
+    "statsLabel": "Denne uken",
+    "statsCount": "3 av 5",
+    "statsCountLabel": "vellykkede",
+    "chartDays": ["M", "T", "O", "T", "F", "L", "S"],
+    "localBadge": "Lagret kun på denne telefonen",
+    "ownerLabel": "Din private visning",
+    "featuresIndex": "04 / MER ENN ØYEBLIKKET",
+    "features": [
+      { "title": "Bruk ditt eget språk", "body": "Bytt mellom 16 språk i hele appopplevelsen." },
+      { "title": "Hold orden på kontaktene", "body": "Navn og numre er lette å finne etterpå, uten skykonto." },
+      { "title": "Se framgangen din", "body": "Følg sju dagers resultater, treffprosent og historikk i din private oversikt." }
+    ],
+    "pricingIndex": "05 / PRISER",
+    "pricingHeadline": "Prøv den modige delen gratis.",
+    "pricingIntro": "Et gratis forsøk brukes når du trykker på START, uansett om svaret blir ja eller nei.",
+    "freeTier": "Gratis",
+    "freeTierUnit": "påbegynte forsøk",
+    "freeFeatures": ["Hele forløpet", "Kontakter lagres lokalt", "Privat framgangsoversikt"],
+    "proTag": "Fortsett",
+    "proTier": "Pro",
+    "proPrice": "Butikkpris",
+    "proPlans": "Måneds- og årsplaner",
+    "proFeatures": ["Ubegrensede forsøk", "Alt som er med i Gratis", "Støtter framtidige oppdateringer"],
+    "pricingNote": "Butikkens priser og tilgjengelighet vises i appen og kan variere fra region til region.",
+    "faqIndex": "06 / KLARE SVAR",
+    "faqHeadline": "Før du rekker fram telefonen.",
+    "faqLink": "Se all hjelp",
+    "faqs": [
+      { "q": "Ser personen appnavnet?", "a": "Nei. Forløpet den andre ser, viser bare et nøytralt spørsmål og svaralternativene. Oversikten din og appens merkevare forblir skjult." },
+      { "q": "Hva skjer hvis hen sier nei?", "a": "Hen ser en rolig beskjed, og forløpet avsluttes. Å gå tilbake kan ikke avdekke din private startskjerm." },
+      { "q": "Hvor lagres nummeret?", "a": "Bare på enheten din. ColdHello har ingen servere som mottar kontaktene, innstillingene eller historikken din." },
+      { "q": "Når telles et gratis forsøk?", "a": "Det telles når du trykker på START, uansett om den andre sier ja eller nei. De fem første påbegynte forsøkene per installasjon er gratis." },
+      { "q": "Hvor kan jeg laste den ned?", "a": "Offisielle nedlastingsknapper dukker opp her når hver butikkside er publisert." }
+    ],
+    "finalEyebrow": "Det neste øyeblikket er ditt",
+    "finalStoreAria": "Tilgjengelighet i butikkene"
+  },
+  "support": {
+    "title": "Hjelp - ColdHello",
+    "description": "Svar om ColdHello, gratis forsøk, abonnementer, personvern, lagrede kontakter og gjenoppretting av kjøp.",
+    "eyebrow": "Hjelp uten omveier",
+    "heading": "Hjelp",
+    "intro": "Tydelige svar om bruk av ColdHello, hvordan dataene dine holdes private og hvordan du styrer Pro.",
+    "navAria": "Hjelpetemaer",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Kom i gang",
+        "title": "Kom i gang",
+        "items": [
+          { "q": "Hvordan foregår et forsøk?", "a": "Velg hvem du har lyst til å møte, start forsøket og rekk fram telefonen. Personen ser et nøytralt spørsmål og kan svare privat. Ved et ja skriver hen inn navn og nummer selv." },
+          { "q": "Ser personen appnavnet?", "a": "Nei. Skjermen som vises for den andre, viser aldri ColdHello-merket, oversikten din eller innstillingene dine. Bare den nøytrale samhandlingen er synlig." },
+          { "q": "Hva skjer når noen sier nei?", "a": "Appen viser en rolig beskjed og avslutter forløpet den andre ser. Å gå tilbake avdekker ikke din private startskjerm." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Personvern",
+        "title": "Personvern og kontakter",
+        "items": [
+          { "q": "Hvor lagres lagrede kontakter?", "a": "Navn og numre lagres bare på enheten din. ColdHello har ingen servere som mottar kontaktene, innstillingene eller forsøkshistorikken din." },
+          { "q": "Sletter avinstallering kontaktene mine?", "a": "Ja. Avinstallering fjerner ColdHellos lokale data permanent. Lagre viktige numre i telefonens vanlige kontakter først." },
+          { "q": "Sporer appen meg?", "a": "Nei. ColdHello bruker verken reklame, tredjepartsanalyse eller atferdssporing. Abonnementer håndteres separat av Apple eller Google via RevenueCat." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Gratis og Pro",
+        "title": "Gratis og Pro",
+        "items": [
+          { "q": "Hvordan fungerer gratisnivået?", "a": "De fem første påbegynte forsøkene per installasjon er gratis. Et forsøk telles når du trykker på START, uansett om svaret blir ja eller nei. Deretter låser Pro opp ubegrensede forsøk." },
+          { "q": "Hva koster Pro?", "a": "Nøyaktig måneds- og årspris, valuta, avgifter og tilgjengelighet vises av App Store eller Google Play før kjøp og kan variere fra region til region." },
+          { "q": "Kjøpet mitt vises ikke", "a": "Åpne Innstillinger i appen og velg Gjenopprett kjøp. Sjekk at enheten bruker samme Apple-ID eller Google-konto som gjennomførte kjøpet." },
+          { "q": "Hvordan sier jeg opp?", "a": "Administrer eller si opp abonnementet i abonnementsinnstillingene for Apple-ID-en eller Google Play-kontoen din. Betalinger og oppsigelser håndteres ikke direkte i ColdHello." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Kontakt",
+        "title": "Trenger du fortsatt hjelp?",
+        "body": "Send oss en e-post med en kort beskrivelse av problemet og hvilken plattform du bruker. Ikke ta med telefonnummeret til noen andre."
+      }
+    ]
+  }
+}

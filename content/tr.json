@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "İçeriğe geç",
+    "homeAria": "ColdHello ana sayfa",
+    "mainNavAria": "Ana gezinme",
+    "navHowItWorks": "Nasıl çalışır",
+    "navPrivacy": "Gizlilik",
+    "navSupport": "Destek",
+    "languageLabel": "Dili değiştir",
+    "footerTagline": "Tek kelime etmeden ilk hamleyi yap.",
+    "footerNavAria": "Destek ve yasal bilgiler",
+    "footerPrivacy": "Gizlilik",
+    "footerTerms": "Kullanım Koşulları",
+    "appleBadgeAlt": "App Store'dan indirin",
+    "googleBadgeAlt": "Google Play'den alın"
+  },
+  "index": {
+    "title": "ColdHello - Tek kelime etmeden ilk hamleyi yap",
+    "description": "ColdHello, utangaç insanların baskısız ve özel bir soruyla ilk hamleyi yapmasına yardım eder. Hesap yok, takip yok ve kişileriniz telefonunuzda kalır.",
+    "ogDescription": "Tek kelime etmeden ilk hamleyi yap.",
+    "heroEyebrow": "ColdHello / Sıradaki an senin",
+    "heroHeadline1": "Daha az söyle.",
+    "heroHeadline2": "Biriyle tanış.",
+    "heroPromise": "iPhone ve Android için tasarlandı.",
+    "heroDetail": "Telefonunu uzat. Karşındaki kişi net ve tarafsız tek bir soru görür ve kararını özel olarak verir. Laf atma yok. Herkesin içinde baskı yok.",
+    "storeRowAria": "Uygulama mağazalarında bulunabilirlik",
+    "microProofLead": "Tasarımı gereği özel.",
+    "microProofRest": "Hesap yok. Takip yok. Kişiler cihazında kalır.",
+    "heroProductAria": "ColdHello'da gösterilen özel sorunun önizlemesi",
+    "burst1": "SIRA",
+    "burst2": "SENDE",
+    "screenKicker": "Kısa bir soru",
+    "screenQuestion1": "Numaranızı",
+    "screenQuestion2": "alabilir miyim?",
+    "demoYes": "Evet",
+    "demoNo": "Hayır, teşekkürler",
+    "screenNote": "Karar senin. Baskı yok.",
+    "privacyStamp1": "BU EKRANDA",
+    "privacyStamp2": "UYGULAMA ADI YOK",
+    "problemIndex": "01 / NEDEN",
+    "problemHeadline": "En zor kısım çoğu zaman ilk beş saniyedir.",
+    "problemBody": "Birini fark ettin. Merhaba demek istiyorsun. Sonra aklın boşalıyor ve o an geçip gidiyor.",
+    "problemNoteLead": "ColdHello evet sözü vermez.",
+    "problemNoteRest": "Sana sormanın saygılı bir yolunu, karşındakine de yanıt vermenin net bir yolunu sunar.",
+    "flowIndex": "02 / AKIŞ",
+    "flowHeadline1": "Cesur bir hamle.",
+    "flowHeadline2": "Dört basit adım.",
+    "flowIntro": "Ezberlenecek bir metin yok. Uygulama o ana eşlik eder, sonra kenara çekilir.",
+    "steps": [
+      { "title": "Anı yakala", "body": "Gerçekten tanışmak istediğin birini seç." },
+      { "title": "Telefonunu uzat", "body": "Karşındaki kişi tarafsız bir soru görür; uygulama adını ya da özel panelini asla görmez." },
+      { "title": "Kararını özel olarak verir", "body": "Kabul edebilir, reddedebilir ya da uzaklaşabilir. Yanıt aranızda kalır." },
+      { "title": "Sonra bak", "body": "Kabul ederse adı ve numarası uygulamada cihazın üzerinde kaydedilir." }
+    ],
+    "privacyIndex": "03 / SAYGI EN BAŞTAN",
+    "privacyHeadline": "Onun için net bir seçim. Senin için özel veriler.",
+    "privacyBody": "Karşı tarafa gösterilen ekran tarafsız kalır. Ret durumunda etkileşim kibarca kapanır ve özel ana ekranın asla görünmez.",
+    "proofList": [
+      "Hesap gerekmez",
+      "Reklam veya analiz takipçisi yok",
+      "Kişiler ve geçmiş cihazında kalır",
+      "Uygulamanın tamamında 16 dil"
+    ],
+    "privacyLink": "Gizlilik politikasının tamamını oku",
+    "statsAria": "Özel istatistik ekranının önizlemesi",
+    "statsHeader": "Denemeler",
+    "statsLabel": "Bu hafta",
+    "statsCount": "5'te 3",
+    "statsCountLabel": "başarılı",
+    "chartDays": ["P", "S", "Ç", "P", "C", "C", "P"],
+    "localBadge": "Yalnızca bu telefonda kayıtlı",
+    "ownerLabel": "Senin özel görünümün",
+    "featuresIndex": "04 / O ANDAN FAZLASI",
+    "features": [
+      { "title": "Kendi dilini kullan", "body": "Uygulamanın tamamında 16 dil arasında geçiş yap." },
+      { "title": "Kişileri düzenli tut", "body": "Adlar ve numaralar bulut hesabı olmadan, görüşmeden sonra kolayca bulunur." },
+      { "title": "İlerlemeni gör", "body": "Yedi günlük sonuçları, başarı oranını ve geçmişi özel panelinde takip et." }
+    ],
+    "pricingIndex": "05 / FİYATLAR",
+    "pricingHeadline": "Cesaret kısmını ücretsiz dene.",
+    "pricingIntro": "BAŞLA'ya dokunduğunda ücretsiz bir deneme kullanılır; yanıt evet de olsa hayır da olsa.",
+    "freeTier": "Ücretsiz",
+    "freeTierUnit": "başlatılan deneme",
+    "freeFeatures": ["Eksiksiz akış", "Kişileri cihazda kaydetme", "Özel ilerleme takibi"],
+    "proTag": "Devam et",
+    "proTier": "Pro",
+    "proPrice": "Mağaza fiyatı",
+    "proPlans": "Aylık ve yıllık planlar",
+    "proFeatures": ["Sınırsız deneme", "Ücretsiz sürümdeki her şey", "Gelecek güncellemeleri destekler"],
+    "pricingNote": "Mağaza fiyatları ve bulunabilirlik uygulamada gösterilir ve bölgeye göre değişebilir.",
+    "faqIndex": "06 / NET YANITLAR",
+    "faqHeadline": "Telefonunu uzatmadan önce.",
+    "faqLink": "Tüm desteği gör",
+    "faqs": [
+      { "q": "Uygulamanın adını görecek mi?", "a": "Hayır. Karşı tarafa gösterilen akışta yalnızca tarafsız bir soru ve yanıt seçenekleri vardır. Panelin ve uygulama markası gizli kalır." },
+      { "q": "Hayır derse ne olur?", "a": "Sakin bir mesaj görür ve akış sona erer. Geri dönmek özel ana ekranını açığa çıkaramaz." },
+      { "q": "Numarası nerede saklanıyor?", "a": "Yalnızca cihazında. ColdHello, kişilerini, tercihlerini veya deneme geçmişini alan sunucular işletmez." },
+      { "q": "Ücretsiz deneme ne zaman sayılır?", "a": "BAŞLA'ya dokunduğunda sayılır; karşındaki kişi kabul etse de reddetse de. Her kurulumda başlattığın ilk beş deneme ücretsizdir." },
+      { "q": "Nereden indirebilirim?", "a": "Her mağaza sayfası yayına girdiğinde resmi indirme düğmeleri burada görünür." }
+    ],
+    "finalEyebrow": "Sıradaki an senin",
+    "finalStoreAria": "Mağazalarda bulunabilirlik"
+  },
+  "support": {
+    "title": "Destek - ColdHello",
+    "description": "ColdHello, ücretsiz denemeler, abonelikler, gizlilik, kayıtlı kişiler ve satın alma geri yükleme hakkında yanıtlar.",
+    "eyebrow": "Dolambaçsız destek",
+    "heading": "Destek",
+    "intro": "ColdHello'yu kullanma, verilerini gizli tutma ve Pro'yu yönetme konusunda net yanıtlar.",
+    "navAria": "Destek konuları",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Başlarken",
+        "title": "Başlarken",
+        "items": [
+          { "q": "Bir deneme nasıl işler?", "a": "Tanışmak istediğin kişiyi seç, denemeyi başlat ve telefonunu uzat. Karşındaki kişi tarafsız bir soru görür ve özel olarak yanıtlayabilir. Kabul ederse adını ve numarasını kendisi yazar." },
+          { "q": "Kişi uygulamanın adını görüyor mu?", "a": "Hayır. Ona gösterilen ekranda ColdHello markası, panelin veya ayarların asla görünmez. Yalnızca tarafsız etkileşim gösterilir." },
+          { "q": "Biri reddederse ne olur?", "a": "Uygulama sakin bir mesaj gösterir ve karşı tarafa dönük akışı bitirir. Geri gitmek özel ana ekranını göstermez." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Gizlilik",
+        "title": "Gizlilik ve kişiler",
+        "items": [
+          { "q": "Kayıtlı kişiler nerede tutulur?", "a": "Adlar ve numaralar yalnızca cihazında saklanır. ColdHello, kişilerini, tercihlerini veya deneme geçmişini alan sunucular işletmez." },
+          { "q": "Uygulamayı kaldırmak kişilerimi siler mi?", "a": "Evet. Kaldırma işlemi ColdHello'nun yerel verilerini kalıcı olarak siler. Önemli numaraları önce telefonunun normal kişilerine kaydet." },
+          { "q": "Uygulama beni takip ediyor mu?", "a": "Hayır. ColdHello reklam, üçüncü taraf analiz veya davranışsal takip kullanmaz. Abonelik işlemleri Apple veya Google tarafından RevenueCat ile ayrıca yürütülür." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Ücretsiz ve Pro",
+        "title": "Ücretsiz ve Pro",
+        "items": [
+          { "q": "Ücretsiz kademe nasıl çalışır?", "a": "Her kurulumda başlattığın ilk beş deneme ücretsizdir. BAŞLA'ya dokunduğunda bir deneme sayılır; yanıt evet de olsa hayır da olsa. Sonrasında Pro sınırsız deneme açar." },
+          { "q": "Pro ne kadar?", "a": "Kesin aylık ve yıllık fiyat, para birimi, vergiler ve bulunabilirlik satın alma öncesinde App Store veya Google Play tarafından gösterilir ve bölgeye göre değişebilir." },
+          { "q": "Satın alımım görünmüyor", "a": "Uygulamada Ayarlar'ı aç ve Satın alımları geri yükle'yi seç. Cihazın, satın alma yapılan Apple kimliğini veya Google hesabını kullandığından emin ol." },
+          { "q": "Nasıl iptal ederim?", "a": "Aboneliğini Apple kimliğinin veya Google Play hesabının abonelik ayarlarından yönet ya da iptal et. Ödemeler ve iptaller doğrudan ColdHello içinde yürütülmez." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "İletişim",
+        "title": "Hâlâ yardım gerekiyor mu?",
+        "body": "Sorunun kısa bir açıklamasını ve kullandığın cihaz platformunu yazarak bize e-posta gönder. Başka birinin telefon numarasını ekleme."
+      }
+    ]
+  }
+}

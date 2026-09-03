@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "Lumaktaw sa nilalaman",
+    "homeAria": "ColdHello home",
+    "mainNavAria": "Pangunahing nabigasyon",
+    "navHowItWorks": "Paano ito gumagana",
+    "navPrivacy": "Privacy",
+    "navSupport": "Tulong",
+    "languageLabel": "Palitan ang wika",
+    "footerTagline": "Gumawa ng unang hakbang nang walang sinasabi.",
+    "footerNavAria": "Tulong at legal",
+    "footerPrivacy": "Privacy",
+    "footerTerms": "Mga Tuntunin ng Paggamit",
+    "appleBadgeAlt": "I-download sa App Store",
+    "googleBadgeAlt": "Kunin sa Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Gumawa ng unang hakbang nang walang sinasabi",
+    "description": "Tinutulungan ng ColdHello ang mga mahiyaing tao na gumawa ng unang hakbang sa pamamagitan ng pribadong tanong na walang pressure. Walang account, walang pagsubaybay, at nananatili sa telepono mo ang mga contact mo.",
+    "ogDescription": "Gumawa ng unang hakbang nang walang sinasabi.",
+    "heroEyebrow": "ColdHello / Sa iyo ang susunod na sandali",
+    "heroHeadline1": "Bawasan ang sabi.",
+    "heroHeadline2": "May makilala.",
+    "heroPromise": "Ginawa para sa iPhone at Android.",
+    "heroDetail": "Iabot ang telepono mo. Isang malinaw at neutral na tanong lang ang makikita niya, at pipili siya nang pribado. Walang pick-up line. Walang pressure sa harap ng iba.",
+    "storeRowAria": "Availability sa mga app store",
+    "microProofLead": "Pribado sa disenyo.",
+    "microProofRest": "Walang account. Walang pagsubaybay. Nananatili sa device mo ang mga contact.",
+    "heroProductAria": "Preview ng pribadong tanong na ipinapakita sa ColdHello",
+    "burst1": "IKAW",
+    "burst2": "NA",
+    "screenKicker": "Isang mabilis na tanong",
+    "screenQuestion1": "Pwede ko bang",
+    "screenQuestion2": "makuha number mo?",
+    "demoYes": "Oo",
+    "demoNo": "Hindi, salamat",
+    "screenNote": "Ikaw ang pipili. Walang pressure.",
+    "privacyStamp1": "WALANG PANGALAN NG APP",
+    "privacyStamp2": "SA SCREEN NA ITO",
+    "problemIndex": "01 / BAKIT",
+    "problemHeadline": "Ang pinakamahirap ay madalas ang unang limang segundo.",
+    "problemBody": "May napansin kang tao. Gusto mong bumati. Tapos nag-blangko ang isip mo at lumipas ang sandali.",
+    "problemNoteLead": "Hindi nangangako ng oo ang ColdHello.",
+    "problemNoteRest": "Binibigyan ka lang nito ng magalang na paraan para magtanong at siya ng malinaw na paraan para sumagot.",
+    "flowIndex": "02 / ANG DALOY",
+    "flowHeadline1": "Isang matapang na hakbang.",
+    "flowHeadline2": "Apat na simpleng hakbang.",
+    "flowIntro": "Walang iskrip na kabisaduhin. Ginagabayan ng app ang sandali, tapos umaalis sa daan.",
+    "steps": [
+      { "title": "Kilalanin ang sandali", "body": "Pumili ng taong talagang gusto mong makilala." },
+      { "title": "Iabot ang telepono mo", "body": "Neutral na tanong ang makikita niya, hindi kailanman ang pangalan ng app o ang pribadong dashboard mo." },
+      { "title": "Pribado siyang pipili", "body": "Pwede siyang pumayag, tumanggi, o umalis. Sa inyong dalawa lang ang sagot niya." },
+      { "title": "Tingnan mamaya", "body": "Kapag pumayag siya, naka-save ang pangalan at number niya sa loob mismo ng app." }
+    ],
+    "privacyIndex": "03 / RESPETO SA SIMULA PA LANG",
+    "privacyHeadline": "Malinaw na pagpipilian para sa kanya. Pribadong datos para sa iyo.",
+    "privacyBody": "Nananatiling neutral ang screen na nakikita ng ibang tao. Maayos na nagtatapos ang usapan kapag tumanggi siya, at hindi kailanman lumalabas ang pribadong home screen mo.",
+    "proofList": [
+      "Walang kailangang account",
+      "Walang ad o analytics tracker",
+      "Nananatili sa device mo ang mga contact at kasaysayan",
+      "16 na wika sa buong app"
+    ],
+    "privacyLink": "Basahin ang buong patakaran sa privacy",
+    "statsAria": "Preview ng pribadong screen ng estadistika",
+    "statsHeader": "Mga approach",
+    "statsLabel": "Ngayong linggo",
+    "statsCount": "3 sa 5",
+    "statsCountLabel": "matagumpay",
+    "chartDays": ["L", "M", "M", "H", "B", "S", "L"],
+    "localBadge": "Naka-save lang sa teleponong ito",
+    "ownerLabel": "Ang pribadong view mo",
+    "featuresIndex": "04 / HIGIT PA SA SANDALI",
+    "features": [
+      { "title": "Gamitin ang wika mo", "body": "Magpalipat-lipat sa 16 na wika sa buong karanasan sa app." },
+      { "title": "Ayos ang mga contact", "body": "Madaling hanapin ang mga pangalan at number pagkatapos, nang walang cloud account." },
+      { "title": "Tingnan ang progreso mo", "body": "Subaybayan ang resulta ng pitong araw, success rate, at kasaysayan sa pribadong dashboard mo." }
+    ],
+    "pricingIndex": "05 / PRESYO",
+    "pricingHeadline": "Subukan nang libre ang matapang na bahagi.",
+    "pricingIntro": "Nagagamit ang isang libreng approach kapag pinindot mo ang MAGSIMULA, oo man o hindi ang sagot.",
+    "freeTier": "Libre",
+    "freeTierUnit": "nasimulang approach",
+    "freeFeatures": ["Buong daloy", "Pag-save ng contact sa device", "Pribadong pagsubaybay sa progreso"],
+    "proTag": "Ituloy mo",
+    "proTier": "Pro",
+    "proPrice": "Presyo sa store",
+    "proPlans": "Buwanan at taunang plano",
+    "proFeatures": ["Walang limitasyong approach", "Lahat ng nasa Libre", "Sumusuporta sa mga update sa hinaharap"],
+    "pricingNote": "Ipinapakita sa app ang presyo at availability ng store, at maaaring mag-iba ayon sa rehiyon.",
+    "faqIndex": "06 / DIRETSAHANG SAGOT",
+    "faqHeadline": "Bago mo iabot ang telepono mo.",
+    "faqLink": "Tingnan ang buong tulong",
+    "faqs": [
+      { "q": "Makikita ba niya ang pangalan ng app?", "a": "Hindi. Neutral na tanong at mga pagpipiliang sagot lang ang lumalabas sa bahaging nakikita ng ibang tao. Nananatiling nakatago ang dashboard mo at ang branding ng app." },
+      { "q": "Ano ang mangyayari kapag hindi siya pumayag?", "a": "Makikita niya ang isang mahinahong mensahe at doon nagtatapos ang daloy. Hindi mailalabas ng pagbalik ang pribadong home screen mo." },
+      { "q": "Saan naka-save ang number niya?", "a": "Sa device mo lang. Walang pinapatakbong server ang ColdHello na tumatanggap ng mga contact, kagustuhan, o kasaysayan mo." },
+      { "q": "Kailan nabibilang ang libreng approach?", "a": "Nabibilang ito kapag pinindot mo ang MAGSIMULA, pumayag man o tumanggi ang kausap mo. Libre ang unang limang nasimulang approach sa bawat pag-install." },
+      { "q": "Saan ko ito maida-download?", "a": "Lalabas dito ang mga opisyal na download button kapag na-publish na ang bawat listing sa store." }
+    ],
+    "finalEyebrow": "Sa iyo ang susunod na sandali",
+    "finalStoreAria": "Availability sa store"
+  },
+  "support": {
+    "title": "Tulong - ColdHello",
+    "description": "Mga sagot tungkol sa ColdHello, libreng approach, subscription, privacy, naka-save na contact, at pagbawi ng pagbili.",
+    "eyebrow": "Tulong nang walang paligoy-ligoy",
+    "heading": "Tulong",
+    "intro": "Malinaw na sagot tungkol sa paggamit ng ColdHello, pagpapanatiling pribado ng datos mo, at pamamahala ng Pro.",
+    "navAria": "Mga paksa ng tulong",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Pagsisimula",
+        "title": "Pagsisimula",
+        "items": [
+          { "q": "Paano gumagana ang isang approach?", "a": "Piliin kung sino ang gusto mong makilala, simulan ang approach, at iabot ang telepono mo. Makikita niya ang neutral na tanong at pwede siyang sumagot nang pribado. Kapag pumayag siya, siya mismo ang maglalagay ng pangalan at number niya." },
+          { "q": "Nakikita ba niya ang pangalan ng app?", "a": "Hindi. Hindi kailanman ipinapakita sa screen na nakaharap sa kanya ang branding ng ColdHello, ang dashboard mo, o ang mga setting mo. Ang neutral na pakikipag-ugnayan lang ang lumalabas." },
+          { "q": "Ano ang mangyayari kapag may tumanggi?", "a": "Nagpapakita ang app ng mahinahong mensahe at tinatapos ang bahaging nakikita ng ibang tao. Hindi inilalantad ng pagbalik ang pribadong home screen mo." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Privacy",
+        "title": "Privacy at mga contact",
+        "items": [
+          { "q": "Saan itinatago ang mga naka-save na contact?", "a": "Sa device mo lang naka-imbak ang mga pangalan at number. Walang pinapatakbong server ang ColdHello na tumatanggap ng mga contact, kagustuhan, o kasaysayan ng approach mo." },
+          { "q": "Mabubura ba ang mga contact ko kapag na-uninstall?", "a": "Oo. Permanenteng inaalis ng pag-uninstall ang lokal na datos ng ColdHello. I-save muna ang mahahalagang number sa karaniwang contacts ng telepono mo." },
+          { "q": "Sinusubaybayan ba ako ng app?", "a": "Hindi. Hindi gumagamit ang ColdHello ng advertising, third-party analytics, o behavioral tracking. Hiwalay na pinoproseso ng Apple o Google ang subscription gamit ang RevenueCat." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Libre at Pro",
+        "title": "Libre at Pro",
+        "items": [
+          { "q": "Paano gumagana ang libreng tier?", "a": "Libre ang unang limang nasimulang approach sa bawat pag-install. Nabibilang ang isang approach kapag pinindot mo ang MAGSIMULA, oo man o hindi ang sagot. Pagkatapos noon, binubuksan ng Pro ang walang limitasyong approach." },
+          { "q": "Magkano ang Pro?", "a": "Ipinapakita ng App Store o Google Play bago ang pagbili ang eksaktong buwanan at taunang presyo, currency, buwis, at availability, at maaari itong mag-iba ayon sa rehiyon." },
+          { "q": "Hindi lumalabas ang binili ko", "a": "Buksan ang Settings sa app at piliin ang Restore purchases. Siguraduhing ginagamit ng device ang parehong Apple ID o Google account na ginamit sa pagbili." },
+          { "q": "Paano ako magkakansela?", "a": "Pamahalaan o kanselahin ang subscription mo sa subscription settings ng Apple ID o Google Play account mo. Hindi direktang hinahawakan sa loob ng ColdHello ang bayad at kanselasyon." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Kontak",
+        "title": "Kailangan mo pa ba ng tulong?",
+        "body": "Mag-email sa amin na may maikling paglalarawan ng isyu at ang platform ng device na ginagamit mo. Huwag isama ang number ng ibang tao."
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "chrome": {
+    "skipToContent": "Naar de inhoud",
+    "homeAria": "ColdHello home",
+    "mainNavAria": "Hoofdnavigatie",
+    "navHowItWorks": "Hoe het werkt",
+    "navPrivacy": "Privacy",
+    "navSupport": "Hulp",
+    "languageLabel": "Taal wijzigen",
+    "footerTagline": "Maak de eerste zet zonder een woord te zeggen.",
+    "footerNavAria": "Hulp en juridisch",
+    "footerPrivacy": "Privacy",
+    "footerTerms": "Gebruiksvoorwaarden",
+    "appleBadgeAlt": "Download in de App Store",
+    "googleBadgeAlt": "Ontdek het op Google Play"
+  },
+  "index": {
+    "title": "ColdHello - Maak de eerste zet zonder een woord te zeggen",
+    "description": "ColdHello helpt verlegen mensen de eerste zet te maken met een privévraag zonder druk. Geen account, geen tracking, en je contacten blijven op je telefoon.",
+    "ogDescription": "Maak de eerste zet zonder een woord te zeggen.",
+    "heroEyebrow": "ColdHello / Het volgende moment is van jou",
+    "heroHeadline1": "Zeg minder.",
+    "heroHeadline2": "Ontmoet iemand.",
+    "heroPromise": "Gemaakt voor iPhone en Android.",
+    "heroDetail": "Geef je telefoon door. De ander ziet één heldere, neutrale vraag en kiest in alle privacy. Geen versierzin. Geen publieke druk.",
+    "storeRowAria": "Beschikbaarheid in de appwinkels",
+    "microProofLead": "Privé van opzet.",
+    "microProofRest": "Geen account. Geen tracking. Contacten blijven op je apparaat.",
+    "heroProductAria": "Voorbeeld van de privévraag in ColdHello",
+    "burst1": "JOUW",
+    "burst2": "MOMENT",
+    "screenKicker": "Een korte vraag",
+    "screenQuestion1": "Mag ik",
+    "screenQuestion2": "je nummer?",
+    "demoYes": "Ja",
+    "demoNo": "Nee, bedankt",
+    "screenNote": "Jij kiest. Geen druk.",
+    "privacyStamp1": "GEEN APPNAAM",
+    "privacyStamp2": "OP DIT SCHERM",
+    "problemIndex": "01 / WAAROM",
+    "problemHeadline": "Het moeilijkst zijn vaak de eerste vijf seconden.",
+    "problemBody": "Je zag iemand. Je wilt hallo zeggen. Dan slaat je hoofd op tilt en het moment is voorbij.",
+    "problemNoteLead": "ColdHello belooft geen ja.",
+    "problemNoteRest": "De app geeft je simpelweg een respectvolle manier om te vragen en de ander een heldere manier om te antwoorden.",
+    "flowIndex": "02 / HET VERLOOP",
+    "flowHeadline1": "Eén dappere zet.",
+    "flowHeadline2": "Vier simpele stappen.",
+    "flowIntro": "Niets uit je hoofd te leren. De app begeleidt het moment en gaat daarna aan de kant.",
+    "steps": [
+      { "title": "Zie het moment", "body": "Kies iemand die je echt zou willen ontmoeten." },
+      { "title": "Geef je telefoon door", "body": "De ander ziet een neutrale vraag, nooit de appnaam of jouw privédashboard." },
+      { "title": "De ander kiest privé", "body": "Ja zeggen, weigeren of weglopen kan allemaal. Het antwoord blijft tussen jullie." },
+      { "title": "Kijk later terug", "body": "Bij een ja worden naam en nummer lokaal in de app bewaard." }
+    ],
+    "privacyIndex": "03 / RESPECT INGEBOUWD",
+    "privacyHeadline": "Een heldere keuze voor de ander. Privégegevens voor jou.",
+    "privacyBody": "Het scherm voor de ander blijft neutraal. Een weigering sluit het contact netjes af en toont nooit jouw privéstartscherm.",
+    "proofList": [
+      "Geen account nodig",
+      "Geen advertenties of analytische trackers",
+      "Contacten en geschiedenis blijven op je apparaat",
+      "16 talen in de hele app"
+    ],
+    "privacyLink": "Lees het volledige privacybeleid",
+    "statsAria": "Voorbeeld van het privéscherm met statistieken",
+    "statsHeader": "Pogingen",
+    "statsLabel": "Deze week",
+    "statsCount": "3 van 5",
+    "statsCountLabel": "geslaagd",
+    "chartDays": ["M", "D", "W", "D", "V", "Z", "Z"],
+    "localBadge": "Alleen op deze telefoon bewaard",
+    "ownerLabel": "Jouw privéweergave",
+    "featuresIndex": "04 / MEER DAN HET MOMENT",
+    "features": [
+      { "title": "Spreek je eigen taal", "body": "Wissel tussen 16 talen in de hele app." },
+      { "title": "Houd contacten geordend", "body": "Namen en nummers zijn na afloop makkelijk terug te vinden, zonder cloudaccount." },
+      { "title": "Zie je voortgang", "body": "Volg zeven dagen aan resultaten, je slagingspercentage en je geschiedenis in je privédashboard." }
+    ],
+    "pricingIndex": "05 / PRIJZEN",
+    "pricingHeadline": "Probeer het dappere deel gratis.",
+    "pricingIntro": "Een gratis poging wordt gebruikt zodra je op BEGIN tikt, of het antwoord nu ja of nee is.",
+    "freeTier": "Gratis",
+    "freeTierUnit": "gestarte pogingen",
+    "freeFeatures": ["Volledig verloop", "Contacten lokaal bewaren", "Privé voortgang bijhouden"],
+    "proTag": "Ga door",
+    "proTier": "Pro",
+    "proPrice": "Winkelprijs",
+    "proPlans": "Maand- en jaarplannen",
+    "proFeatures": ["Onbeperkte pogingen", "Alles uit Gratis", "Steunt toekomstige updates"],
+    "pricingNote": "Winkelprijzen en beschikbaarheid staan in de app en kunnen per regio verschillen.",
+    "faqIndex": "06 / DUIDELIJKE ANTWOORDEN",
+    "faqHeadline": "Voordat je je telefoon doorgeeft.",
+    "faqLink": "Bekijk alle hulp",
+    "faqs": [
+      { "q": "Ziet de ander de naam van de app?", "a": "Nee. Het scherm voor de ander toont alleen een neutrale vraag en de antwoordopties. Je dashboard en de merknaam blijven verborgen." },
+      { "q": "Wat gebeurt er bij een nee?", "a": "De ander ziet een rustige bevestiging en het verloop stopt. Teruggaan kan jouw privéstartscherm niet tonen." },
+      { "q": "Waar wordt het nummer bewaard?", "a": "Alleen op je apparaat. ColdHello heeft geen servers die je contacten, voorkeuren of geschiedenis ontvangen." },
+      { "q": "Wanneer telt een gratis poging?", "a": "Die telt zodra je op BEGIN tikt, of de ander nu ja of nee zegt. Je eerste vijf gestarte pogingen per installatie zijn gratis." },
+      { "q": "Waar kan ik de app downloaden?", "a": "De officiële downloadknoppen verschijnen hier zodra elke winkelpagina live is." }
+    ],
+    "finalEyebrow": "Het volgende moment is van jou",
+    "finalStoreAria": "Beschikbaarheid in de winkels"
+  },
+  "support": {
+    "title": "Hulp - ColdHello",
+    "description": "Antwoorden over ColdHello, gratis pogingen, abonnementen, privacy, bewaarde contacten en het herstellen van aankopen.",
+    "eyebrow": "Hulp zonder omwegen",
+    "heading": "Hulp",
+    "intro": "Heldere antwoorden over het gebruik van ColdHello, het privé houden van je gegevens en het beheren van Pro.",
+    "navAria": "Hulponderwerpen",
+    "sections": [
+      {
+        "id": "getting-started",
+        "nav": "Aan de slag",
+        "title": "Aan de slag",
+        "items": [
+          { "q": "Hoe verloopt een poging?", "a": "Kies wie je wilt ontmoeten, start de poging en geef je telefoon door. De ander ziet een neutrale vraag en kan privé antwoorden. Bij een ja vult diegene zelf naam en nummer in." },
+          { "q": "Ziet de ander de naam van de app?", "a": "Nee. Het scherm voor de ander toont nooit de merknaam ColdHello, je dashboard of je instellingen. Alleen de neutrale interactie is zichtbaar." },
+          { "q": "Wat gebeurt er als iemand weigert?", "a": "De app toont een rustige bevestiging en sluit het scherm voor de ander af. Teruggaan onthult jouw privéstartscherm niet." }
+        ]
+      },
+      {
+        "id": "privacy-help",
+        "nav": "Privacy",
+        "title": "Privacy en contacten",
+        "items": [
+          { "q": "Waar worden bewaarde contacten opgeslagen?", "a": "Namen en nummers staan alleen op je apparaat. ColdHello heeft geen servers die je contacten, voorkeuren of pogingsgeschiedenis ontvangen." },
+          { "q": "Verwijdert de app-verwijdering mijn contacten?", "a": "Ja. Bij het verwijderen van de app worden de lokale gegevens van ColdHello definitief gewist. Sla belangrijke nummers eerst op in de gewone contacten van je telefoon." },
+          { "q": "Volgt de app mij?", "a": "Nee. ColdHello gebruikt geen advertenties, analyse van derden of gedragstracking. Abonnementen worden apart door Apple of Google verwerkt via RevenueCat." }
+        ]
+      },
+      {
+        "id": "pro-help",
+        "nav": "Gratis en Pro",
+        "title": "Gratis en Pro",
+        "items": [
+          { "q": "Hoe werkt de gratis versie?", "a": "Je eerste vijf gestarte pogingen per installatie zijn gratis. Een poging telt zodra je op BEGIN tikt, of het antwoord nu ja of nee is. Daarna ontgrendelt Pro onbeperkte pogingen." },
+          { "q": "Wat kost Pro?", "a": "De exacte maand- en jaarprijs, valuta, belastingen en beschikbaarheid toont de App Store of Google Play vóór aankoop; ze kunnen per regio verschillen." },
+          { "q": "Mijn aankoop verschijnt niet", "a": "Open Instellingen in de app en kies Aankopen herstellen. Zorg dat het apparaat dezelfde Apple ID of hetzelfde Google-account gebruikt als bij de aankoop." },
+          { "q": "Hoe zeg ik op?", "a": "Beheer of stop je abonnement via de abonnementsinstellingen van je Apple ID of Google Play-account. Betalingen en opzeggingen lopen niet rechtstreeks via ColdHello." }
+        ]
+      },
+      {
+        "id": "contact",
+        "nav": "Contact",
+        "title": "Nog hulp nodig?",
+        "body": "Mail ons met een korte beschrijving van het probleem en het platform dat je gebruikt. Vermeld niet het telefoonnummer van iemand anders."
+      }
+    ]
+  }
+}
