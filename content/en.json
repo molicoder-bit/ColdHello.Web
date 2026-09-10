@@ -191,5 +191,23 @@
       { "id": "law", "label": "Law" },
       { "id": "contact", "label": "Contact" }
     ]
+  },
+  "childSafety": {
+    "title": "Child Safety Standards - ColdHello",
+    "description": "ColdHello standards prohibiting child sexual abuse and exploitation, reporting concerns, and responding to child safety reports.",
+    "eyebrow": "Zero tolerance",
+    "heading": "Child Safety Standards",
+    "intro": "ColdHello prohibits child sexual abuse and exploitation and provides a direct way to report child-safety concerns.",
+    "updated": "Effective and last updated: September 10, 2026",
+    "navAria": "Child safety standards sections",
+    "nav": [
+      { "id": "commitment", "label": "Commitment" },
+      { "id": "scope", "label": "Scope" },
+      { "id": "prohibited", "label": "Prohibited conduct" },
+      { "id": "reporting", "label": "Report a concern" },
+      { "id": "response", "label": "Our response" },
+      { "id": "authorities", "label": "Authorities" },
+      { "id": "contact", "label": "Contact" }
+    ]
   }
 }

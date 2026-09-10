@@ -47,10 +47,17 @@ function legalHref(locale, page) {
   return LEGAL.has(locale.code) ? fileName(page) : `${rootPrefix(locale)}${fileName(page)}`;
 }
 
+// The child-safety standards are published in English at one stable URL for
+// Google Play and users worldwide.
+function childSafetyHref(locale) {
+  return `${rootPrefix(locale)}child-safety.html`;
+}
+
 // Which locales a page actually exists in. Legal pages are English/Spanish
 // only, so neither their alternate links nor their language menu may offer the
 // other locales — those files are never generated.
 function localesFor(page) {
+  if (page === 'child-safety') return LOCALES.filter((l) => l.code === 'en');
   return page === 'privacy' || page === 'terms'
     ? LOCALES.filter((l) => LEGAL.has(l.code))
     : LOCALES;
@@ -155,6 +162,7 @@ function footer(locale) {
     + `<a href="support.html">${esc(c.navSupport)}</a>`
     + `<a href="${legalHref(locale, 'privacy')}">${esc(c.footerPrivacy)}</a>`
     + `<a href="${legalHref(locale, 'terms')}">${esc(c.footerTerms)}</a>`
+    + `<a href="${childSafetyHref(locale)}">Child Safety</a>`
     + '</nav>'
     + '<div class="footer-meta"><p>&copy; 2026 ColdHello</p></div>'
     + '</div></footer>'
@@ -372,6 +380,38 @@ function renderLegal(locale, page) {
   ].join('\n');
 }
 
+function renderChildSafety(locale) {
+  const c = locale.chrome;
+  const t = locale.childSafety;
+  const page = 'child-safety';
+  const body = fs
+    .readFileSync(path.join(CONTENT, 'legal', 'en', `${page}.html`), 'utf8')
+    .trim();
+  const navLinks = t.nav.map((n) => `<a href="#${n.id}">${esc(n.label)}</a>`).join('');
+
+  return [
+    head(locale, page, { title: t.title, description: t.description }),
+    '<body>',
+    `  <a class="skip-link" href="#main-content">${esc(c.skipToContent)}</a>`,
+    header(locale, page),
+    '  <main id="main-content">',
+    `    <header class="doc-hero"><div class="shell"><p class="section-index">${esc(t.eyebrow)}</p>`
+      + `<h1>${esc(t.heading)}</h1><p>${esc(t.intro)}</p>`
+      + `<p class="updated">${esc(t.updated)}</p></div></header>`,
+    '    <div class="shell doc-layout">',
+    `      <nav class="doc-nav" aria-label="${esc(t.navAria)}">${navLinks}</nav>`,
+    '      <article class="doc">',
+    body.split('\n').map((line) => `        ${line.trim()}`).join('\n'),
+    '      </article>',
+    '    </div>',
+    '  </main>',
+    footer(locale),
+    '</body>',
+    '</html>',
+    '',
+  ].join('\n');
+}
+
 // English is the reference shape. A locale missing a key would otherwise render
 // the string "undefined" into a page, so compare structures before rendering.
 function checkShape(reference, candidate, code, path, problems) {
@@ -409,7 +449,8 @@ function main() {
   const only = new Set(process.argv.slice(2));
   const targets = only.size ? LOCALES.filter((l) => only.has(l.code)) : LOCALES;
   const reference = JSON.parse(fs.readFileSync(path.join(CONTENT, 'en.json'), 'utf8'));
-  const { privacy, terms, ...shared } = reference;
+  const { privacy, terms, childSafety, ...shared } = reference;
+  const legalReference = { ...shared, privacy, terms };
 
   const problems = [];
   const loaded = targets.map((entry) => {
@@ -418,7 +459,7 @@ function main() {
       entry,
       JSON.parse(fs.readFileSync(path.join(CONTENT, `${entry.code}.json`), 'utf8')),
     );
-    checkShape(LEGAL.has(entry.code) ? reference : shared, locale, entry.code, '', problems);
+    checkShape(LEGAL.has(entry.code) ? legalReference : shared, locale, entry.code, '', problems);
     return locale;
   });
 
@@ -436,6 +477,9 @@ function main() {
     if (LEGAL.has(locale.code)) {
       written.push(write(locale, 'privacy', renderLegal(locale, 'privacy')));
       written.push(write(locale, 'terms', renderLegal(locale, 'terms')));
+    }
+    if (locale.code === 'en') {
+      written.push(write(locale, 'child-safety', renderChildSafety(locale)));
     }
   }
   for (const file of written) process.stdout.write(`  ${file}\n`);
