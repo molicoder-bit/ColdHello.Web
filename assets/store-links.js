@@ -1,7 +1,7 @@
 // Add each public listing URL when it exists. Badges stay hidden while blank,
 // so the site never sends visitors to a placeholder or claims availability.
 const storeLinks = {
-  apple: '',
+  apple: 'https://apps.apple.com/app/id6803632299',
   google: '',
 };
 

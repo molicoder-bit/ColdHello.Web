@@ -208,7 +208,7 @@ function renderIndex(locale) {
       title: t.title,
       description: t.description,
       og: t.ogDescription,
-      scripts: ['assets/store-links.js'],
+      scripts: ['assets/store-links.js?v=20260920'],
     }),
     '<body>',
     `  <a class="skip-link" href="#main-content">${esc(c.skipToContent)}</a>`,
