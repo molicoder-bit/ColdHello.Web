@@ -2,7 +2,7 @@
 // so the site never sends visitors to a placeholder or claims availability.
 const storeLinks = {
   apple: 'https://apps.apple.com/app/id6803632299',
-  google: '',
+  google: 'https://play.google.com/store/apps/details?id=com.coldapproacheasy.app',
 };
 
 for (const link of document.querySelectorAll('[data-store]')) {
